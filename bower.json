@@ -1,0 +1,8 @@
+{
+  "name": "dougnotes",
+  "version": "0.0.1",
+  "dependencies": {
+    "cytoscape-edgehandles":"2.0.0"
+  },
+  "private": false
+}

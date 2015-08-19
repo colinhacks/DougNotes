@@ -1,0 +1,52 @@
+<template name="layout">
+	<!-- <script type="text/javascript" src="http://marvl.infotech.monash.edu/webcola/cola.v3.min.js"></script> -->
+	<div id="main">
+
+		{{> yield "editor" }}
+		{{> yield "graph"  }}
+		{{> yield "menu" }}
+		
+	</div>
+</template>
+
+<template name="graph">
+	<div id="graph" >
+		<div class="" id="graphRow">
+			<div id="objectEditor" class="large-4 columns" >
+				<pre>{{jsonText}}</pre>
+
+			</div>
+			<div id="graphShower" class="large-8 columns" >
+				
+				
+			</div>
+		</div>
+	</div>
+</template>
+
+<template name="menu">
+	<div id="menu">
+		<div id="connectionViewButton">
+			<i class="fi-share"></i>
+		</div>
+		<div id="attributeViewButton">
+			<i class="fi-results"></i>
+		</div>
+		<div id="graphMenuButton">
+			<i class="fi-list"></i>
+		</div>
+		<div id="graphMenu">
+			<div class="menuItem">sdflnsdf</div>
+			<div class="menuItem">sdfsdfsdf</div>
+			<div class="menuItem">fgh</div>
+			<div class="menuItem">dflerefnsdf</div>
+			<br/>
+		</div>
+	</div>
+</template>
+
+<template class="row" name="editor">
+	<div id="editor">
+		<textarea id="commandTextarea"></textarea> 
+	</div>
+</template>

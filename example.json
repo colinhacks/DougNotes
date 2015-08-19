@@ -1,0 +1,357 @@
+[
+  {
+    "group": "nodes",
+    "data": {
+      "name": "yoyo",
+      "type": [
+        "inverse blarg",
+        "_value"
+      ],
+      "blarg": [
+        "1",
+        "2",
+        "3"
+      ],
+      "id": "SiLbbKbXbC9ugyxgh"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "name": "1",
+      "source": "SiLbbKbXbC9ugyxgh",
+      "target": "XQrehpmAQqFFkw9dG"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "name": "2",
+      "source": "SiLbbKbXbC9ugyxgh",
+      "target": "Kg9WA65gNyhhYnWaB"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "name": "3",
+      "source": "SiLbbKbXbC9ugyxgh",
+      "target": "yfFr9fwvKq6LJNM2Y"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "type": [
+        "_value",
+        "blarg",
+        "_value"
+      ],
+      "name": "1",
+      "createdAt": 1438132445639,
+      "inverse blarg": "yoyo",
+      "id": "XQrehpmAQqFFkw9dG"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "type": [
+        "_value",
+        "blarg",
+        "_value"
+      ],
+      "name": "2",
+      "createdAt": 1438132445660,
+      "inverse blarg": "yoyo",
+      "id": "Kg9WA65gNyhhYnWaB"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "type": [
+        "_value",
+        "blarg",
+        "_value"
+      ],
+      "name": "3",
+      "createdAt": 1438132445675,
+      "inverse blarg": "yoyo",
+      "id": "yfFr9fwvKq6LJNM2Y"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "name": "yoya",
+      "type": [
+        "inverse b",
+        "_value"
+      ],
+      "b": [
+        "a",
+        "s",
+        "d",
+        "f"
+      ],
+      "id": "rT9sT2qNdFh6CEcHa"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "name": "a",
+      "source": "rT9sT2qNdFh6CEcHa",
+      "target": "57Mxcz7gb3f4uuFri"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "name": "s",
+      "source": "rT9sT2qNdFh6CEcHa",
+      "target": "hKxrcwuh4oECLNJ49"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "name": "d",
+      "source": "rT9sT2qNdFh6CEcHa",
+      "target": "DQCnijs2cd2P9XPcN"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "name": "f",
+      "source": "rT9sT2qNdFh6CEcHa",
+      "target": "E5xwpRHj26s6cHvQk"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "type": [
+        "_value",
+        "b",
+        "_value"
+      ],
+      "name": "a",
+      "createdAt": 1438132445756,
+      "inverse b": "yoya",
+      "id": "57Mxcz7gb3f4uuFri"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "type": [
+        "_value",
+        "b",
+        "_value",
+        "letters"
+      ],
+      "name": "s",
+      "createdAt": 1438132445773,
+      "inverse b": "yoya",
+      "inverse letters": "a",
+      "id": "hKxrcwuh4oECLNJ49"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "type": [
+        "_value",
+        "b",
+        "_value",
+        "letters"
+      ],
+      "name": "d",
+      "createdAt": 1438132445789,
+      "inverse b": "yoya",
+      "inverse letters": "a",
+      "id": "DQCnijs2cd2P9XPcN"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "type": [
+        "_value",
+        "b",
+        "_value",
+        "letters"
+      ],
+      "name": "f",
+      "createdAt": 1438132445802,
+      "inverse b": "yoya",
+      "inverse letters": "a",
+      "id": "E5xwpRHj26s6cHvQk"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "name": "yoyo",
+      "type": [
+        "inverse up",
+        "_value"
+      ],
+      "up": [
+        "down",
+        "left"
+      ],
+      "id": "iJ8aDwSfMEN3mHtLt"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "name": "down",
+      "source": "iJ8aDwSfMEN3mHtLt",
+      "target": "DSrPZCXYNCPE7uyR9"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "name": "left",
+      "source": "iJ8aDwSfMEN3mHtLt",
+      "target": "X8M5Z98pGCX4FWJBg"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "type": [
+        "_value",
+        "up",
+        "_value"
+      ],
+      "name": "down",
+      "createdAt": 1438132445842,
+      "inverse up": "yoyo",
+      "id": "DSrPZCXYNCPE7uyR9"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "type": [
+        "_value",
+        "up",
+        "_value"
+      ],
+      "name": "left",
+      "createdAt": 1438132445855,
+      "inverse up": "yoyo",
+      "id": "X8M5Z98pGCX4FWJBg"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "name": "a",
+      "type": [
+        "inverse letters",
+        "_value"
+      ],
+      "letters": [
+        "s",
+        "d",
+        "f"
+      ],
+      "id": "2J3myPMhv3X5ZCG37"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "name": "s",
+      "source": "2J3myPMhv3X5ZCG37",
+      "target": "hKxrcwuh4oECLNJ49"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "name": "d",
+      "source": "2J3myPMhv3X5ZCG37",
+      "target": "DQCnijs2cd2P9XPcN"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "name": "f",
+      "source": "2J3myPMhv3X5ZCG37",
+      "target": "E5xwpRHj26s6cHvQk"
+    }
+  }
+]
+
+
+
+[
+      { // node n1
+        group: 'nodes', // 'nodes' for a node, 'edges' for an edge
+
+        // NB: id fields must be strings
+        data: { // element data (put dev data here)
+          id: 'n1', // mandatory for each element, assigned automatically on undefined
+          parent: 'nparent', // indicates the compound node parent id; not defined => no parent
+        },
+
+        // scratchpad data (usually temp or nonserialisable data)
+        scratch: {
+          foo: 'bar'
+        },
+
+        position: { // the model position of the node (optional on init, mandatory after)
+          x: 100,
+          y: 100
+        },
+
+        selected: false, // whether the element is selected (default false)
+
+        selectable: true, // whether the selection state is mutable (default true)
+
+        locked: false, // when locked a node's position is immutable (default false)
+
+        grabbable: true, // whether the node can be grabbed and moved by the user
+
+        classes: 'foo bar', // a space separated list of class names that the element has
+
+        // NB: you should only use `style`/`css` for very special cases; use classes instead
+        style: { 'background-color': 'red' } // overriden style properties
+      },
+
+      { // node n2
+        group: 'nodes',
+        data: { id: 'n2' },
+        renderedPosition: { x: 200, y: 200 } // can alternatively specify position in rendered on-screen pixels
+      },
+
+      { // node n3
+        group: 'nodes',
+        data: { id: 'n3', parent: 'nparent' },
+        position: { x: 123, y: 234 }
+      },
+
+      { // node nparent
+        group: 'nodes',
+        data: { id: 'nparent', position: { x: 200, y: 100 } }
+      },
+
+      { // edge e1
+        group: 'edges',
+        data: {
+          id: 'e1',
+          source: 'n1', // the source node id (edge comes from this node)
+          target: 'n2'  // the target node id (edge goes to this node)
+        }
+      }
+    ]

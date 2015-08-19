@@ -1,0 +1,25 @@
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+text {
+  font: 10px sans-serif;
+}
+body { margin: 0; }
+/*.divs {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.divs div {
+  border-radius: 50%;
+  position: absolute;
+}.subnode{
+  border-radius: 2%;
+  background: red;
+}*/

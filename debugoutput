@@ -1,0 +1,1789 @@
+6d42b711d24f85230f967311338f9fe159da2156.js:218 adding text to textbox
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:264 Set
+6d42b711d24f85230f967311338f9fe159da2156.js:224 Cyto Options
+6d42b711d24f85230f967311338f9fe159da2156.js:224 Object {container: div#graphShower.large-8.columns, motionBlur: false, layout: Object, style: Array[11]}
+6d42b711d24f85230f967311338f9fe159da2156.js:222 Adding event listeners
+6d42b711d24f85230f967311338f9fe159da2156.js:222 listener: Object {event: "tap", selector: ""}
+6d42b711d24f85230f967311338f9fe159da2156.js:222 listener: Object {event: "tap", selector: "*"}
+6d42b711d24f85230f967311338f9fe159da2156.js:222 listener: Object {event: "tap", selector: ""}
+6d42b711d24f85230f967311338f9fe159da2156.js:209 Layout took 425 ms
+populateGraph();
+6d42b711d24f85230f967311338f9fe159da2156.js:224 refreshGraph
+6d42b711d24f85230f967311338f9fe159da2156.js:232 Object {type: Object, name: Object}
+6d42b711d24f85230f967311338f9fe159da2156.js:232 Object {type: Object, name: Object}
+6d42b711d24f85230f967311338f9fe159da2156.js:232 Object {type: Object, name: Object}
+6d42b711d24f85230f967311338f9fe159da2156.js:232 Object {type: Object, name: Object}
+6d42b711d24f85230f967311338f9fe159da2156.js:236 [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:236 ["qQqJbBwxCBdCmm3YC", "GNPL3sWe4RfJtSSen", "Ln5qX83Ha3462WyWw", "vzFRh4CGz6onF3EBT", "EgPbxnXF98FjNFaxN", "cr5GX5Dmxe9wgc7ua", "NNTgWJ4i2pozjPvPS", "N7HJq48Rja5FEkYjM", "jdTNGTMNYxYdDsnnu", "R5ca9oqHAhR5xEYr2", "RjDhJ3nQ2kZT3BaJE"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 getCyData
+6d42b711d24f85230f967311338f9fe159da2156.js:234 generateElementsFromObject: Ted Nelson
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck start
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 Made it past the continue!
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 Made it past the continue!
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 Made it past the continue!
+6d42b711d24f85230f967311338f9fe159da2156.js:232 goodkeys returning: [object Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"Ted Nelson","id":"qQqJbBwxCBdCmm3YC","newlyCreated":false,"parent":"","_parent":"","_classes":["object"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"Ted Nelson","id":"qQqJbBwxCBdCmm3YCLabelNode","newlyCreated":false,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["labelNode","qQqJbBwxCBdCmm3YCLabelNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 to add or not to add
+6d42b711d24f85230f967311338f9fe159da2156.js:234 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 GoodKey: dob
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"dob","id":"Ted Nelson_dob_KeyNode","newlyCreated":false,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["keyNode","qQqJbBwxCBdCmm3YCKeyNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:234 removing isAttribute: qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:234 removing isattribute: 
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 target object 0
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"dob","source":"Ted Nelson_dob_KeyNode","target":"GNPL3sWe4RfJtSSen","id":"Ted Nelson_dob_KeyNode_GNPL3sWe4RfJtSSen_Edge","_classes":["keyEdge","qQqJbBwxCBdCmm3YCKeyEdge","monoEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyedgeclasses
+6d42b711d24f85230f967311338f9fe159da2156.js:234 ["keyEdge", "qQqJbBwxCBdCmm3YCKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:198 Can not create edge `Ted Nelson_dob_KeyNode_GNPL3sWe4RfJtSSen_Edge` with nonexistant target `GNPL3sWe4RfJtSSen`e.util.error @ 6d42b711d24f85230f967311338f9fe159da2156.js:198e.elesfn.restore @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.Element @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.fn.core.add @ 6d42b711d24f85230f967311338f9fe159da2156.js:201generateElementsFromObject @ 6d42b711d24f85230f967311338f9fe159da2156.js:234generateGraphFromObjects @ 6d42b711d24f85230f967311338f9fe159da2156.js:224populateGraph @ 6d42b711d24f85230f967311338f9fe159da2156.js:224(anonymous function) @ VM754:2InjectedScript._evaluateOn @ VM721:905InjectedScript._evaluateAndWrap @ VM721:838InjectedScript.evaluate @ VM721:694
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyEdgeClasses after
+6d42b711d24f85230f967311338f9fe159da2156.js:234 undefined
+6d42b711d24f85230f967311338f9fe159da2156.js:234 newKey
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyNodeEdge
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"Ted Nelson_dob_edge","source":"qQqJbBwxCBdCmm3YC","target":"Ted Nelson_dob_KeyNode","id":"qQqJbBwxCBdCmm3YC_Ted Nelson_dob_KeyNode_Edge","_classes":["keyNodeEdge","externalKeyNodeEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 internalKeyNodes
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"dob","id":"Ted Nelson_dob_InternalKeyNode","newlyCreated":false,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["internalKeyNode","qQqJbBwxCBdCmm3YCInternalKeyNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 internalKeyEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:234 target object 0
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"dob","source":"Ted Nelson_dob_InternalKeyNode","target":"GNPL3sWe4RfJtSSen","id":"Ted Nelson_dob_InternalKeyNode_GNPL3sWe4RfJtSSen_Edge","_classes":["internalKeyEdge","qQqJbBwxCBdCmm3YCInternalKeyEdge","monoEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:198 Can not create edge `Ted Nelson_dob_InternalKeyNode_GNPL3sWe4RfJtSSen_Edge` with nonexistant target `GNPL3sWe4RfJtSSen`e.util.error @ 6d42b711d24f85230f967311338f9fe159da2156.js:198e.elesfn.restore @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.Element @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.fn.core.add @ 6d42b711d24f85230f967311338f9fe159da2156.js:201generateElementsFromObject @ 6d42b711d24f85230f967311338f9fe159da2156.js:234generateGraphFromObjects @ 6d42b711d24f85230f967311338f9fe159da2156.js:224populateGraph @ 6d42b711d24f85230f967311338f9fe159da2156.js:224(anonymous function) @ VM754:2InjectedScript._evaluateOn @ VM721:905InjectedScript._evaluateAndWrap @ VM721:838InjectedScript.evaluate @ VM721:694
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelKeyNodeEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"Ted Nelson_dob_InternalKeyNode","target":"qQqJbBwxCBdCmm3YCLabelNode","id":"Ted Nelson_dob_InternalKeyNode_qQqJbBwxCBdCmm3YCLabelNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","qQqJbBwxCBdCmm3YCInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YCLabelNode","target":"Ted Nelson_dob_InternalKeyNode","id":"qQqJbBwxCBdCmm3YCLabelNode_Ted Nelson_dob_InternalKeyNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","qQqJbBwxCBdCmm3YCInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 attrNodes
+6d42b711d24f85230f967311338f9fe159da2156.js:234 checking attr status
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [target = 'GNPL3sWe4RfJtSSen']:visible.internalKeyEdge
+6d42b711d24f85230f967311338f9fe159da2156.js:234 1937
+6d42b711d24f85230f967311338f9fe159da2156.js:234 incoming edges: 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 outgoing edges: 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 ongoing result: true
+6d42b711d24f85230f967311338f9fe159da2156.js:234 iknName: Ted Nelson_dob_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding isattribute: Ted Nelson_dob_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 1
+6d42b711d24f85230f967311338f9fe159da2156.js:234 1937
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Object {id: "GNPL3sWe4RfJtSSen", value: "1937"}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Object {id: "GNPL3sWe4RfJtSSen", value: "1937"}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"dob: \n-\t1937","id":"qQqJbBwxCBdCmm3YC_dob_AttrNode","newlyCreated":false,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["attrNodeReferencingGNPL3sWe4RfJtSSen","attrNode","qQqJbBwxCBdCmm3YCAttrNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelAttrEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YCLabelNode","target":"qQqJbBwxCBdCmm3YC_dob_AttrNode","id":"qQqJbBwxCBdCmm3YCLabelNode_qQqJbBwxCBdCmm3YC_dob_AttrNode_Edge","_classes":["internalEdge","labelAttrEdge","qQqJbBwxCBdCmm3YCInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YC_dob_AttrNode","target":"qQqJbBwxCBdCmm3YCLabelNode","id":"qQqJbBwxCBdCmm3YC_dob_AttrNode_qQqJbBwxCBdCmm3YCLabelNode_Edge","_classes":["internalEdge","labelAttrEdge","qQqJbBwxCBdCmm3YCInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck end
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:234 GoodKey: influenced by
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"influenced by","id":"Ted Nelson_influenced by_KeyNode","newlyCreated":false,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["keyNode","qQqJbBwxCBdCmm3YCKeyNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:234 removing isAttribute: qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:234 removing isattribute: 
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 target object 0
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"influenced by","source":"Ted Nelson_influenced by_KeyNode","target":"NNTgWJ4i2pozjPvPS","id":"Ted Nelson_influenced by_KeyNode_NNTgWJ4i2pozjPvPS_Edge","_classes":["keyEdge","qQqJbBwxCBdCmm3YCKeyEdge","monoEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyedgeclasses
+6d42b711d24f85230f967311338f9fe159da2156.js:234 ["keyEdge", "qQqJbBwxCBdCmm3YCKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:198 Can not create edge `Ted Nelson_influenced by_KeyNode_NNTgWJ4i2pozjPvPS_Edge` with nonexistant target `NNTgWJ4i2pozjPvPS`e.util.error @ 6d42b711d24f85230f967311338f9fe159da2156.js:198e.elesfn.restore @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.Element @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.fn.core.add @ 6d42b711d24f85230f967311338f9fe159da2156.js:201generateElementsFromObject @ 6d42b711d24f85230f967311338f9fe159da2156.js:234generateGraphFromObjects @ 6d42b711d24f85230f967311338f9fe159da2156.js:224populateGraph @ 6d42b711d24f85230f967311338f9fe159da2156.js:224(anonymous function) @ VM754:2InjectedScript._evaluateOn @ VM721:905InjectedScript._evaluateAndWrap @ VM721:838InjectedScript.evaluate @ VM721:694
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyEdgeClasses after
+6d42b711d24f85230f967311338f9fe159da2156.js:234 undefined
+6d42b711d24f85230f967311338f9fe159da2156.js:234 newKey
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyNodeEdge
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"Ted Nelson_influenced by_edge","source":"qQqJbBwxCBdCmm3YC","target":"Ted Nelson_influenced by_KeyNode","id":"qQqJbBwxCBdCmm3YC_Ted Nelson_influenced by_KeyNode_Edge","_classes":["keyNodeEdge","externalKeyNodeEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 internalKeyNodes
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"influenced by","id":"Ted Nelson_influenced by_InternalKeyNode","newlyCreated":false,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["internalKeyNode","qQqJbBwxCBdCmm3YCInternalKeyNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 internalKeyEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:234 target object 0
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"influenced by","source":"Ted Nelson_influenced by_InternalKeyNode","target":"NNTgWJ4i2pozjPvPS","id":"Ted Nelson_influenced by_InternalKeyNode_NNTgWJ4i2pozjPvPS_Edge","_classes":["internalKeyEdge","qQqJbBwxCBdCmm3YCInternalKeyEdge","monoEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:198 Can not create edge `Ted Nelson_influenced by_InternalKeyNode_NNTgWJ4i2pozjPvPS_Edge` with nonexistant target `NNTgWJ4i2pozjPvPS`e.util.error @ 6d42b711d24f85230f967311338f9fe159da2156.js:198e.elesfn.restore @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.Element @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.fn.core.add @ 6d42b711d24f85230f967311338f9fe159da2156.js:201generateElementsFromObject @ 6d42b711d24f85230f967311338f9fe159da2156.js:234generateGraphFromObjects @ 6d42b711d24f85230f967311338f9fe159da2156.js:224populateGraph @ 6d42b711d24f85230f967311338f9fe159da2156.js:224(anonymous function) @ VM754:2InjectedScript._evaluateOn @ VM721:905InjectedScript._evaluateAndWrap @ VM721:838InjectedScript.evaluate @ VM721:694
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelKeyNodeEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"Ted Nelson_influenced by_InternalKeyNode","target":"qQqJbBwxCBdCmm3YCLabelNode","id":"Ted Nelson_influenced by_InternalKeyNode_qQqJbBwxCBdCmm3YCLabelNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","qQqJbBwxCBdCmm3YCInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YCLabelNode","target":"Ted Nelson_influenced by_InternalKeyNode","id":"qQqJbBwxCBdCmm3YCLabelNode_Ted Nelson_influenced by_InternalKeyNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","qQqJbBwxCBdCmm3YCInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 attrNodes
+6d42b711d24f85230f967311338f9fe159da2156.js:234 checking attr status
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [target = 'NNTgWJ4i2pozjPvPS']:visible.internalKeyEdge
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Vannevar Bush
+6d42b711d24f85230f967311338f9fe159da2156.js:234 incoming edges: 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 outgoing edges: 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 ongoing result: true
+6d42b711d24f85230f967311338f9fe159da2156.js:234 iknName: Ted Nelson_influenced by_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding isattribute: Ted Nelson_influenced by_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 1
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Vannevar Bush
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Object {id: "NNTgWJ4i2pozjPvPS", value: "Vannevar Bush"}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Object {id: "NNTgWJ4i2pozjPvPS", value: "Vannevar Bush"}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"influenced by: \n-\tVannevar Bush","id":"qQqJbBwxCBdCmm3YC_influenced by_AttrNode","newlyCreated":false,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["attrNodeReferencingNNTgWJ4i2pozjPvPS","attrNode","qQqJbBwxCBdCmm3YCAttrNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelAttrEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YCLabelNode","target":"qQqJbBwxCBdCmm3YC_influenced by_AttrNode","id":"qQqJbBwxCBdCmm3YCLabelNode_qQqJbBwxCBdCmm3YC_influenced by_AttrNode_Edge","_classes":["internalEdge","labelAttrEdge","qQqJbBwxCBdCmm3YCInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YC_influenced by_AttrNode","target":"qQqJbBwxCBdCmm3YCLabelNode","id":"qQqJbBwxCBdCmm3YC_influenced by_AttrNode_qQqJbBwxCBdCmm3YCLabelNode_Edge","_classes":["internalEdge","labelAttrEdge","qQqJbBwxCBdCmm3YCInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck end
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:234 GoodKey: influenced
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"influenced","id":"Ted Nelson_influenced_KeyNode","newlyCreated":false,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["keyNode","qQqJbBwxCBdCmm3YCKeyNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:234 removing isAttribute: qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:234 removing isattribute: 
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 target object 0
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"influenced","source":"Ted Nelson_influenced_KeyNode","target":"N7HJq48Rja5FEkYjM","id":"Ted Nelson_influenced_KeyNode_N7HJq48Rja5FEkYjM_Edge","_classes":["keyEdge","qQqJbBwxCBdCmm3YCKeyEdge","monoEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyedgeclasses
+6d42b711d24f85230f967311338f9fe159da2156.js:234 ["keyEdge", "qQqJbBwxCBdCmm3YCKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:198 Can not create edge `Ted Nelson_influenced_KeyNode_N7HJq48Rja5FEkYjM_Edge` with nonexistant target `N7HJq48Rja5FEkYjM`e.util.error @ 6d42b711d24f85230f967311338f9fe159da2156.js:198e.elesfn.restore @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.Element @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.fn.core.add @ 6d42b711d24f85230f967311338f9fe159da2156.js:201generateElementsFromObject @ 6d42b711d24f85230f967311338f9fe159da2156.js:234generateGraphFromObjects @ 6d42b711d24f85230f967311338f9fe159da2156.js:224populateGraph @ 6d42b711d24f85230f967311338f9fe159da2156.js:224(anonymous function) @ VM754:2InjectedScript._evaluateOn @ VM721:905InjectedScript._evaluateAndWrap @ VM721:838InjectedScript.evaluate @ VM721:694
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyEdgeClasses after
+6d42b711d24f85230f967311338f9fe159da2156.js:234 undefined
+6d42b711d24f85230f967311338f9fe159da2156.js:234 newKey
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyNodeEdge
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"Ted Nelson_influenced_edge","source":"qQqJbBwxCBdCmm3YC","target":"Ted Nelson_influenced_KeyNode","id":"qQqJbBwxCBdCmm3YC_Ted Nelson_influenced_KeyNode_Edge","_classes":["keyNodeEdge","externalKeyNodeEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 internalKeyNodes
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"influenced","id":"Ted Nelson_influenced_InternalKeyNode","newlyCreated":false,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["internalKeyNode","qQqJbBwxCBdCmm3YCInternalKeyNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 internalKeyEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:234 target object 0
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"influenced","source":"Ted Nelson_influenced_InternalKeyNode","target":"N7HJq48Rja5FEkYjM","id":"Ted Nelson_influenced_InternalKeyNode_N7HJq48Rja5FEkYjM_Edge","_classes":["internalKeyEdge","qQqJbBwxCBdCmm3YCInternalKeyEdge","monoEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:198 Can not create edge `Ted Nelson_influenced_InternalKeyNode_N7HJq48Rja5FEkYjM_Edge` with nonexistant target `N7HJq48Rja5FEkYjM`e.util.error @ 6d42b711d24f85230f967311338f9fe159da2156.js:198e.elesfn.restore @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.Element @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.fn.core.add @ 6d42b711d24f85230f967311338f9fe159da2156.js:201generateElementsFromObject @ 6d42b711d24f85230f967311338f9fe159da2156.js:234generateGraphFromObjects @ 6d42b711d24f85230f967311338f9fe159da2156.js:224populateGraph @ 6d42b711d24f85230f967311338f9fe159da2156.js:224(anonymous function) @ VM754:2InjectedScript._evaluateOn @ VM721:905InjectedScript._evaluateAndWrap @ VM721:838InjectedScript.evaluate @ VM721:694
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelKeyNodeEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"Ted Nelson_influenced_InternalKeyNode","target":"qQqJbBwxCBdCmm3YCLabelNode","id":"Ted Nelson_influenced_InternalKeyNode_qQqJbBwxCBdCmm3YCLabelNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","qQqJbBwxCBdCmm3YCInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YCLabelNode","target":"Ted Nelson_influenced_InternalKeyNode","id":"qQqJbBwxCBdCmm3YCLabelNode_Ted Nelson_influenced_InternalKeyNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","qQqJbBwxCBdCmm3YCInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 attrNodes
+6d42b711d24f85230f967311338f9fe159da2156.js:234 checking attr status
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [target = 'N7HJq48Rja5FEkYjM']:visible.internalKeyEdge
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:234 incoming edges: 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 outgoing edges: 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 ongoing result: true
+6d42b711d24f85230f967311338f9fe159da2156.js:234 iknName: Ted Nelson_influenced_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding isattribute: Ted Nelson_influenced_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 1
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Object {id: "N7HJq48Rja5FEkYjM", value: "Kenny Friedman"}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Object {id: "N7HJq48Rja5FEkYjM", value: "Kenny Friedman"}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"influenced: \n-\tKenny Friedman","id":"qQqJbBwxCBdCmm3YC_influenced_AttrNode","newlyCreated":false,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["attrNodeReferencingN7HJq48Rja5FEkYjM","attrNode","qQqJbBwxCBdCmm3YCAttrNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelAttrEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YCLabelNode","target":"qQqJbBwxCBdCmm3YC_influenced_AttrNode","id":"qQqJbBwxCBdCmm3YCLabelNode_qQqJbBwxCBdCmm3YC_influenced_AttrNode_Edge","_classes":["internalEdge","labelAttrEdge","qQqJbBwxCBdCmm3YCInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YC_influenced_AttrNode","target":"qQqJbBwxCBdCmm3YCLabelNode","id":"qQqJbBwxCBdCmm3YC_influenced_AttrNode_qQqJbBwxCBdCmm3YCLabelNode_Edge","_classes":["internalEdge","labelAttrEdge","qQqJbBwxCBdCmm3YCInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck end
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Done!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"edges","data":{"name":"dob","source":"Ted Nelson_dob_KeyNode","target":"GNPL3sWe4RfJtSSen","id":"Ted Nelson_dob_KeyNode_GNPL3sWe4RfJtSSen_Edge","_classes":["keyEdge","qQqJbBwxCBdCmm3YCKeyEdge","monoEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"Ted Nelson_dob_edge","source":"qQqJbBwxCBdCmm3YC","target":"Ted Nelson_dob_KeyNode","id":"qQqJbBwxCBdCmm3YC_Ted Nelson_dob_KeyNode_Edge","_classes":["keyNodeEdge","externalKeyNodeEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"dob","source":"Ted Nelson_dob_InternalKeyNode","target":"GNPL3sWe4RfJtSSen","id":"Ted Nelson_dob_InternalKeyNode_GNPL3sWe4RfJtSSen_Edge","_classes":["internalKeyEdge","qQqJbBwxCBdCmm3YCInternalKeyEdge","monoEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"Ted Nelson_dob_InternalKeyNode","target":"qQqJbBwxCBdCmm3YCLabelNode","id":"Ted Nelson_dob_InternalKeyNode_qQqJbBwxCBdCmm3YCLabelNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","qQqJbBwxCBdCmm3YCInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YCLabelNode","target":"Ted Nelson_dob_InternalKeyNode","id":"qQqJbBwxCBdCmm3YCLabelNode_Ted Nelson_dob_InternalKeyNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","qQqJbBwxCBdCmm3YCInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YCLabelNode","target":"qQqJbBwxCBdCmm3YC_dob_AttrNode","id":"qQqJbBwxCBdCmm3YCLabelNode_qQqJbBwxCBdCmm3YC_dob_AttrNode_Edge","_classes":["internalEdge","labelAttrEdge","qQqJbBwxCBdCmm3YCInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YC_dob_AttrNode","target":"qQqJbBwxCBdCmm3YCLabelNode","id":"qQqJbBwxCBdCmm3YC_dob_AttrNode_qQqJbBwxCBdCmm3YCLabelNode_Edge","_classes":["internalEdge","labelAttrEdge","qQqJbBwxCBdCmm3YCInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"influenced by","source":"Ted Nelson_influenced by_KeyNode","target":"NNTgWJ4i2pozjPvPS","id":"Ted Nelson_influenced by_KeyNode_NNTgWJ4i2pozjPvPS_Edge","_classes":["keyEdge","qQqJbBwxCBdCmm3YCKeyEdge","monoEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"Ted Nelson_influenced by_edge","source":"qQqJbBwxCBdCmm3YC","target":"Ted Nelson_influenced by_KeyNode","id":"qQqJbBwxCBdCmm3YC_Ted Nelson_influenced by_KeyNode_Edge","_classes":["keyNodeEdge","externalKeyNodeEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"influenced by","source":"Ted Nelson_influenced by_InternalKeyNode","target":"NNTgWJ4i2pozjPvPS","id":"Ted Nelson_influenced by_InternalKeyNode_NNTgWJ4i2pozjPvPS_Edge","_classes":["internalKeyEdge","qQqJbBwxCBdCmm3YCInternalKeyEdge","monoEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"Ted Nelson_influenced by_InternalKeyNode","target":"qQqJbBwxCBdCmm3YCLabelNode","id":"Ted Nelson_influenced by_InternalKeyNode_qQqJbBwxCBdCmm3YCLabelNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","qQqJbBwxCBdCmm3YCInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YCLabelNode","target":"Ted Nelson_influenced by_InternalKeyNode","id":"qQqJbBwxCBdCmm3YCLabelNode_Ted Nelson_influenced by_InternalKeyNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","qQqJbBwxCBdCmm3YCInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YCLabelNode","target":"qQqJbBwxCBdCmm3YC_influenced by_AttrNode","id":"qQqJbBwxCBdCmm3YCLabelNode_qQqJbBwxCBdCmm3YC_influenced by_AttrNode_Edge","_classes":["internalEdge","labelAttrEdge","qQqJbBwxCBdCmm3YCInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YC_influenced by_AttrNode","target":"qQqJbBwxCBdCmm3YCLabelNode","id":"qQqJbBwxCBdCmm3YC_influenced by_AttrNode_qQqJbBwxCBdCmm3YCLabelNode_Edge","_classes":["internalEdge","labelAttrEdge","qQqJbBwxCBdCmm3YCInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"influenced","source":"Ted Nelson_influenced_KeyNode","target":"N7HJq48Rja5FEkYjM","id":"Ted Nelson_influenced_KeyNode_N7HJq48Rja5FEkYjM_Edge","_classes":["keyEdge","qQqJbBwxCBdCmm3YCKeyEdge","monoEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"Ted Nelson_influenced_edge","source":"qQqJbBwxCBdCmm3YC","target":"Ted Nelson_influenced_KeyNode","id":"qQqJbBwxCBdCmm3YC_Ted Nelson_influenced_KeyNode_Edge","_classes":["keyNodeEdge","externalKeyNodeEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"influenced","source":"Ted Nelson_influenced_InternalKeyNode","target":"N7HJq48Rja5FEkYjM","id":"Ted Nelson_influenced_InternalKeyNode_N7HJq48Rja5FEkYjM_Edge","_classes":["internalKeyEdge","qQqJbBwxCBdCmm3YCInternalKeyEdge","monoEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"Ted Nelson_influenced_InternalKeyNode","target":"qQqJbBwxCBdCmm3YCLabelNode","id":"Ted Nelson_influenced_InternalKeyNode_qQqJbBwxCBdCmm3YCLabelNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","qQqJbBwxCBdCmm3YCInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YCLabelNode","target":"Ted Nelson_influenced_InternalKeyNode","id":"qQqJbBwxCBdCmm3YCLabelNode_Ted Nelson_influenced_InternalKeyNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","qQqJbBwxCBdCmm3YCInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YCLabelNode","target":"qQqJbBwxCBdCmm3YC_influenced_AttrNode","id":"qQqJbBwxCBdCmm3YCLabelNode_qQqJbBwxCBdCmm3YC_influenced_AttrNode_Edge","_classes":["internalEdge","labelAttrEdge","qQqJbBwxCBdCmm3YCInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"qQqJbBwxCBdCmm3YC_influenced_AttrNode","target":"qQqJbBwxCBdCmm3YCLabelNode","id":"qQqJbBwxCBdCmm3YC_influenced_AttrNode_qQqJbBwxCBdCmm3YCLabelNode_Edge","_classes":["internalEdge","labelAttrEdge","qQqJbBwxCBdCmm3YCInternalEdge"],"newlyCreated":true}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"nodes","data":{"name":"Ted Nelson","id":"qQqJbBwxCBdCmm3YC","newlyCreated":true,"_parent":"","_classes":["object","hasKeys","hasKeyNodes"]}},{"group":"nodes","data":{"name":"Ted Nelson","id":"qQqJbBwxCBdCmm3YCLabelNode","newlyCreated":true,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["labelNode","qQqJbBwxCBdCmm3YCLabelNode"]}},{"group":"nodes","data":{"name":"dob","id":"Ted Nelson_dob_KeyNode","newlyCreated":true,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["keyNode","qQqJbBwxCBdCmm3YCKeyNode"]}},{"group":"nodes","data":{"name":"dob","id":"Ted Nelson_dob_InternalKeyNode","newlyCreated":true,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["internalKeyNode","qQqJbBwxCBdCmm3YCInternalKeyNode"]}},{"group":"nodes","data":{"name":"dob: \n-\t1937","id":"qQqJbBwxCBdCmm3YC_dob_AttrNode","newlyCreated":true,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["attrNodeReferencingGNPL3sWe4RfJtSSen","attrNode","qQqJbBwxCBdCmm3YCAttrNode"]}},{"group":"nodes","data":{"name":"influenced by","id":"Ted Nelson_influenced by_KeyNode","newlyCreated":true,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["keyNode","qQqJbBwxCBdCmm3YCKeyNode"]}},{"group":"nodes","data":{"name":"influenced by","id":"Ted Nelson_influenced by_InternalKeyNode","newlyCreated":true,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["internalKeyNode","qQqJbBwxCBdCmm3YCInternalKeyNode"]}},{"group":"nodes","data":{"name":"influenced by: \n-\tVannevar Bush","id":"qQqJbBwxCBdCmm3YC_influenced by_AttrNode","newlyCreated":true,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["attrNodeReferencingNNTgWJ4i2pozjPvPS","attrNode","qQqJbBwxCBdCmm3YCAttrNode"]}},{"group":"nodes","data":{"name":"influenced","id":"Ted Nelson_influenced_KeyNode","newlyCreated":true,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["keyNode","qQqJbBwxCBdCmm3YCKeyNode"]}},{"group":"nodes","data":{"name":"influenced","id":"Ted Nelson_influenced_InternalKeyNode","newlyCreated":true,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["internalKeyNode","qQqJbBwxCBdCmm3YCInternalKeyNode"]}},{"group":"nodes","data":{"name":"influenced: \n-\tKenny Friedman","id":"qQqJbBwxCBdCmm3YC_influenced_AttrNode","newlyCreated":true,"parent":"qQqJbBwxCBdCmm3YC","_parent":"qQqJbBwxCBdCmm3YC","_classes":["attrNodeReferencingN7HJq48Rja5FEkYjM","attrNode","qQqJbBwxCBdCmm3YCAttrNode"]}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 generateElementsFromObject: 1937
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck start
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 goodkeys returning: [object Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"1937","id":"GNPL3sWe4RfJtSSen","newlyCreated":false,"parent":"","_parent":"","_classes":["object"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"1937","id":"GNPL3sWe4RfJtSSenLabelNode","newlyCreated":false,"parent":"GNPL3sWe4RfJtSSen","_parent":"GNPL3sWe4RfJtSSen","_classes":["labelNode","GNPL3sWe4RfJtSSenLabelNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 to add or not to add
+6d42b711d24f85230f967311338f9fe159da2156.js:234 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Done!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"nodes","data":{"name":"1937","id":"GNPL3sWe4RfJtSSen","newlyCreated":true,"_parent":"","_classes":["object","hasKeys","hasKeyNodes"]}},{"group":"nodes","data":{"name":"1937","id":"GNPL3sWe4RfJtSSenLabelNode","newlyCreated":true,"parent":"GNPL3sWe4RfJtSSen","_parent":"GNPL3sWe4RfJtSSen","_classes":["labelNode","GNPL3sWe4RfJtSSenLabelNode"]}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 generateElementsFromObject: hiya
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck start
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 Made it past the continue!
+6d42b711d24f85230f967311338f9fe159da2156.js:232 goodkeys returning: [object Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"hiya","id":"Ln5qX83Ha3462WyWw","newlyCreated":false,"parent":"","_parent":"","_classes":["object"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"hiya","id":"Ln5qX83Ha3462WyWwLabelNode","newlyCreated":false,"parent":"Ln5qX83Ha3462WyWw","_parent":"Ln5qX83Ha3462WyWw","_classes":["labelNode","Ln5qX83Ha3462WyWwLabelNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 to add or not to add
+6d42b711d24f85230f967311338f9fe159da2156.js:234 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 GoodKey: asdf
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"asdf","id":"hiya_asdf_KeyNode","newlyCreated":false,"parent":"Ln5qX83Ha3462WyWw","_parent":"Ln5qX83Ha3462WyWw","_classes":["keyNode","Ln5qX83Ha3462WyWwKeyNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:234 removing isAttribute: Ln5qX83Ha3462WyWw
+6d42b711d24f85230f967311338f9fe159da2156.js:234 removing isattribute: 
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 target object 0
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"asdf","source":"hiya_asdf_KeyNode","target":"cr5GX5Dmxe9wgc7ua","id":"hiya_asdf_KeyNode_cr5GX5Dmxe9wgc7ua_Edge","_classes":["keyEdge","Ln5qX83Ha3462WyWwKeyEdge","monoEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyedgeclasses
+6d42b711d24f85230f967311338f9fe159da2156.js:234 ["keyEdge", "Ln5qX83Ha3462WyWwKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:198 Can not create edge `hiya_asdf_KeyNode_cr5GX5Dmxe9wgc7ua_Edge` with nonexistant target `cr5GX5Dmxe9wgc7ua`e.util.error @ 6d42b711d24f85230f967311338f9fe159da2156.js:198e.elesfn.restore @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.Element @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.fn.core.add @ 6d42b711d24f85230f967311338f9fe159da2156.js:201generateElementsFromObject @ 6d42b711d24f85230f967311338f9fe159da2156.js:234generateGraphFromObjects @ 6d42b711d24f85230f967311338f9fe159da2156.js:224populateGraph @ 6d42b711d24f85230f967311338f9fe159da2156.js:224(anonymous function) @ VM754:2InjectedScript._evaluateOn @ VM721:905InjectedScript._evaluateAndWrap @ VM721:838InjectedScript.evaluate @ VM721:694
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyEdgeClasses after
+6d42b711d24f85230f967311338f9fe159da2156.js:234 undefined
+6d42b711d24f85230f967311338f9fe159da2156.js:234 newKey
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyNodeEdge
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"hiya_asdf_edge","source":"Ln5qX83Ha3462WyWw","target":"hiya_asdf_KeyNode","id":"Ln5qX83Ha3462WyWw_hiya_asdf_KeyNode_Edge","_classes":["keyNodeEdge","externalKeyNodeEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 internalKeyNodes
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"asdf","id":"hiya_asdf_InternalKeyNode","newlyCreated":false,"parent":"Ln5qX83Ha3462WyWw","_parent":"Ln5qX83Ha3462WyWw","_classes":["internalKeyNode","Ln5qX83Ha3462WyWwInternalKeyNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 internalKeyEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:234 target object 0
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"asdf","source":"hiya_asdf_InternalKeyNode","target":"cr5GX5Dmxe9wgc7ua","id":"hiya_asdf_InternalKeyNode_cr5GX5Dmxe9wgc7ua_Edge","_classes":["internalKeyEdge","Ln5qX83Ha3462WyWwInternalKeyEdge","monoEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:198 Can not create edge `hiya_asdf_InternalKeyNode_cr5GX5Dmxe9wgc7ua_Edge` with nonexistant target `cr5GX5Dmxe9wgc7ua`e.util.error @ 6d42b711d24f85230f967311338f9fe159da2156.js:198e.elesfn.restore @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.Element @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.fn.core.add @ 6d42b711d24f85230f967311338f9fe159da2156.js:201generateElementsFromObject @ 6d42b711d24f85230f967311338f9fe159da2156.js:234generateGraphFromObjects @ 6d42b711d24f85230f967311338f9fe159da2156.js:224populateGraph @ 6d42b711d24f85230f967311338f9fe159da2156.js:224(anonymous function) @ VM754:2InjectedScript._evaluateOn @ VM721:905InjectedScript._evaluateAndWrap @ VM721:838InjectedScript.evaluate @ VM721:694
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelKeyNodeEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"hiya_asdf_InternalKeyNode","target":"Ln5qX83Ha3462WyWwLabelNode","id":"hiya_asdf_InternalKeyNode_Ln5qX83Ha3462WyWwLabelNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","Ln5qX83Ha3462WyWwInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"Ln5qX83Ha3462WyWwLabelNode","target":"hiya_asdf_InternalKeyNode","id":"Ln5qX83Ha3462WyWwLabelNode_hiya_asdf_InternalKeyNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","Ln5qX83Ha3462WyWwInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 attrNodes
+6d42b711d24f85230f967311338f9fe159da2156.js:234 checking attr status
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [target = 'cr5GX5Dmxe9wgc7ua']:visible.internalKeyEdge
+6d42b711d24f85230f967311338f9fe159da2156.js:234 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:234 incoming edges: 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 outgoing edges: 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 ongoing result: true
+6d42b711d24f85230f967311338f9fe159da2156.js:234 iknName: hiya_asdf_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding isattribute: hiya_asdf_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 1
+6d42b711d24f85230f967311338f9fe159da2156.js:234 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Object {id: "cr5GX5Dmxe9wgc7ua", value: "sdf"}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Object {id: "cr5GX5Dmxe9wgc7ua", value: "sdf"}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"asdf: \n-\tsdf","id":"Ln5qX83Ha3462WyWw_asdf_AttrNode","newlyCreated":false,"parent":"Ln5qX83Ha3462WyWw","_parent":"Ln5qX83Ha3462WyWw","_classes":["attrNodeReferencingcr5GX5Dmxe9wgc7ua","attrNode","Ln5qX83Ha3462WyWwAttrNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelAttrEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"Ln5qX83Ha3462WyWwLabelNode","target":"Ln5qX83Ha3462WyWw_asdf_AttrNode","id":"Ln5qX83Ha3462WyWwLabelNode_Ln5qX83Ha3462WyWw_asdf_AttrNode_Edge","_classes":["internalEdge","labelAttrEdge","Ln5qX83Ha3462WyWwInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"Ln5qX83Ha3462WyWw_asdf_AttrNode","target":"Ln5qX83Ha3462WyWwLabelNode","id":"Ln5qX83Ha3462WyWw_asdf_AttrNode_Ln5qX83Ha3462WyWwLabelNode_Edge","_classes":["internalEdge","labelAttrEdge","Ln5qX83Ha3462WyWwInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck end
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Done!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"edges","data":{"name":"asdf","source":"hiya_asdf_KeyNode","target":"cr5GX5Dmxe9wgc7ua","id":"hiya_asdf_KeyNode_cr5GX5Dmxe9wgc7ua_Edge","_classes":["keyEdge","Ln5qX83Ha3462WyWwKeyEdge","monoEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"hiya_asdf_edge","source":"Ln5qX83Ha3462WyWw","target":"hiya_asdf_KeyNode","id":"Ln5qX83Ha3462WyWw_hiya_asdf_KeyNode_Edge","_classes":["keyNodeEdge","externalKeyNodeEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"asdf","source":"hiya_asdf_InternalKeyNode","target":"cr5GX5Dmxe9wgc7ua","id":"hiya_asdf_InternalKeyNode_cr5GX5Dmxe9wgc7ua_Edge","_classes":["internalKeyEdge","Ln5qX83Ha3462WyWwInternalKeyEdge","monoEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"hiya_asdf_InternalKeyNode","target":"Ln5qX83Ha3462WyWwLabelNode","id":"hiya_asdf_InternalKeyNode_Ln5qX83Ha3462WyWwLabelNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","Ln5qX83Ha3462WyWwInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"Ln5qX83Ha3462WyWwLabelNode","target":"hiya_asdf_InternalKeyNode","id":"Ln5qX83Ha3462WyWwLabelNode_hiya_asdf_InternalKeyNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","Ln5qX83Ha3462WyWwInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"Ln5qX83Ha3462WyWwLabelNode","target":"Ln5qX83Ha3462WyWw_asdf_AttrNode","id":"Ln5qX83Ha3462WyWwLabelNode_Ln5qX83Ha3462WyWw_asdf_AttrNode_Edge","_classes":["internalEdge","labelAttrEdge","Ln5qX83Ha3462WyWwInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"Ln5qX83Ha3462WyWw_asdf_AttrNode","target":"Ln5qX83Ha3462WyWwLabelNode","id":"Ln5qX83Ha3462WyWw_asdf_AttrNode_Ln5qX83Ha3462WyWwLabelNode_Edge","_classes":["internalEdge","labelAttrEdge","Ln5qX83Ha3462WyWwInternalEdge"],"newlyCreated":true}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"nodes","data":{"name":"hiya","id":"Ln5qX83Ha3462WyWw","newlyCreated":true,"_parent":"","_classes":["object","hasKeys","hasKeyNodes"]}},{"group":"nodes","data":{"name":"hiya","id":"Ln5qX83Ha3462WyWwLabelNode","newlyCreated":true,"parent":"Ln5qX83Ha3462WyWw","_parent":"Ln5qX83Ha3462WyWw","_classes":["labelNode","Ln5qX83Ha3462WyWwLabelNode"]}},{"group":"nodes","data":{"name":"asdf","id":"hiya_asdf_KeyNode","newlyCreated":true,"parent":"Ln5qX83Ha3462WyWw","_parent":"Ln5qX83Ha3462WyWw","_classes":["keyNode","Ln5qX83Ha3462WyWwKeyNode"]}},{"group":"nodes","data":{"name":"asdf","id":"hiya_asdf_InternalKeyNode","newlyCreated":true,"parent":"Ln5qX83Ha3462WyWw","_parent":"Ln5qX83Ha3462WyWw","_classes":["internalKeyNode","Ln5qX83Ha3462WyWwInternalKeyNode"]}},{"group":"nodes","data":{"name":"asdf: \n-\tsdf","id":"Ln5qX83Ha3462WyWw_asdf_AttrNode","newlyCreated":true,"parent":"Ln5qX83Ha3462WyWw","_parent":"Ln5qX83Ha3462WyWw","_classes":["attrNodeReferencingcr5GX5Dmxe9wgc7ua","attrNode","Ln5qX83Ha3462WyWwAttrNode"]}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 generateElementsFromObject: sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck start
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 goodkeys returning: [object Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"sdf","id":"vzFRh4CGz6onF3EBT","newlyCreated":false,"parent":"","_parent":"","_classes":["object"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"sdf","id":"vzFRh4CGz6onF3EBTLabelNode","newlyCreated":false,"parent":"vzFRh4CGz6onF3EBT","_parent":"vzFRh4CGz6onF3EBT","_classes":["labelNode","vzFRh4CGz6onF3EBTLabelNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 to add or not to add
+6d42b711d24f85230f967311338f9fe159da2156.js:234 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Done!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"nodes","data":{"name":"sdf","id":"vzFRh4CGz6onF3EBT","newlyCreated":true,"_parent":"","_classes":["object","hasKeys","hasKeyNodes"]}},{"group":"nodes","data":{"name":"sdf","id":"vzFRh4CGz6onF3EBTLabelNode","newlyCreated":true,"parent":"vzFRh4CGz6onF3EBT","_parent":"vzFRh4CGz6onF3EBT","_classes":["labelNode","vzFRh4CGz6onF3EBTLabelNode"]}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 generateElementsFromObject: sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck start
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 goodkeys returning: [object Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"sdf","id":"EgPbxnXF98FjNFaxN","newlyCreated":false,"parent":"","_parent":"","_classes":["object"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"sdf","id":"EgPbxnXF98FjNFaxNLabelNode","newlyCreated":false,"parent":"EgPbxnXF98FjNFaxN","_parent":"EgPbxnXF98FjNFaxN","_classes":["labelNode","EgPbxnXF98FjNFaxNLabelNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 to add or not to add
+6d42b711d24f85230f967311338f9fe159da2156.js:234 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Done!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"nodes","data":{"name":"sdf","id":"EgPbxnXF98FjNFaxN","newlyCreated":true,"_parent":"","_classes":["object","hasKeys","hasKeyNodes"]}},{"group":"nodes","data":{"name":"sdf","id":"EgPbxnXF98FjNFaxNLabelNode","newlyCreated":true,"parent":"EgPbxnXF98FjNFaxN","_parent":"EgPbxnXF98FjNFaxN","_classes":["labelNode","EgPbxnXF98FjNFaxNLabelNode"]}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 generateElementsFromObject: sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck start
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 goodkeys returning: [object Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"sdf","id":"cr5GX5Dmxe9wgc7ua","newlyCreated":false,"parent":"","_parent":"","_classes":["object"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"sdf","id":"cr5GX5Dmxe9wgc7uaLabelNode","newlyCreated":false,"parent":"cr5GX5Dmxe9wgc7ua","_parent":"cr5GX5Dmxe9wgc7ua","_classes":["labelNode","cr5GX5Dmxe9wgc7uaLabelNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 to add or not to add
+6d42b711d24f85230f967311338f9fe159da2156.js:234 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Done!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"nodes","data":{"name":"sdf","id":"cr5GX5Dmxe9wgc7ua","newlyCreated":true,"_parent":"","_classes":["object","hasKeys","hasKeyNodes"]}},{"group":"nodes","data":{"name":"sdf","id":"cr5GX5Dmxe9wgc7uaLabelNode","newlyCreated":true,"parent":"cr5GX5Dmxe9wgc7ua","_parent":"cr5GX5Dmxe9wgc7ua","_classes":["labelNode","cr5GX5Dmxe9wgc7uaLabelNode"]}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 generateElementsFromObject: Vannevar Bush
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck start
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 Made it past the continue!
+6d42b711d24f85230f967311338f9fe159da2156.js:232 goodkeys returning: [object Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"Vannevar Bush","id":"NNTgWJ4i2pozjPvPS","newlyCreated":false,"parent":"","_parent":"","_classes":["object"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"Vannevar Bush","id":"NNTgWJ4i2pozjPvPSLabelNode","newlyCreated":false,"parent":"NNTgWJ4i2pozjPvPS","_parent":"NNTgWJ4i2pozjPvPS","_classes":["labelNode","NNTgWJ4i2pozjPvPSLabelNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 to add or not to add
+6d42b711d24f85230f967311338f9fe159da2156.js:234 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 GoodKey: idea
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"idea","id":"Vannevar Bush_idea_KeyNode","newlyCreated":false,"parent":"NNTgWJ4i2pozjPvPS","_parent":"NNTgWJ4i2pozjPvPS","_classes":["keyNode","NNTgWJ4i2pozjPvPSKeyNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:234 removing isAttribute: NNTgWJ4i2pozjPvPS
+6d42b711d24f85230f967311338f9fe159da2156.js:234 removing isattribute: 
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 target object 0
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"idea","source":"Vannevar Bush_idea_KeyNode","target":"RjDhJ3nQ2kZT3BaJE","id":"Vannevar Bush_idea_KeyNode_RjDhJ3nQ2kZT3BaJE_Edge","_classes":["keyEdge","NNTgWJ4i2pozjPvPSKeyEdge","monoEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyedgeclasses
+6d42b711d24f85230f967311338f9fe159da2156.js:234 ["keyEdge", "NNTgWJ4i2pozjPvPSKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:198 Can not create edge `Vannevar Bush_idea_KeyNode_RjDhJ3nQ2kZT3BaJE_Edge` with nonexistant target `RjDhJ3nQ2kZT3BaJE`e.util.error @ 6d42b711d24f85230f967311338f9fe159da2156.js:198e.elesfn.restore @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.Element @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.fn.core.add @ 6d42b711d24f85230f967311338f9fe159da2156.js:201generateElementsFromObject @ 6d42b711d24f85230f967311338f9fe159da2156.js:234generateGraphFromObjects @ 6d42b711d24f85230f967311338f9fe159da2156.js:224populateGraph @ 6d42b711d24f85230f967311338f9fe159da2156.js:224(anonymous function) @ VM754:2InjectedScript._evaluateOn @ VM721:905InjectedScript._evaluateAndWrap @ VM721:838InjectedScript.evaluate @ VM721:694
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyEdgeClasses after
+6d42b711d24f85230f967311338f9fe159da2156.js:234 undefined
+6d42b711d24f85230f967311338f9fe159da2156.js:234 newKey
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyNodeEdge
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"Vannevar Bush_idea_edge","source":"NNTgWJ4i2pozjPvPS","target":"Vannevar Bush_idea_KeyNode","id":"NNTgWJ4i2pozjPvPS_Vannevar Bush_idea_KeyNode_Edge","_classes":["keyNodeEdge","externalKeyNodeEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 internalKeyNodes
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"idea","id":"Vannevar Bush_idea_InternalKeyNode","newlyCreated":false,"parent":"NNTgWJ4i2pozjPvPS","_parent":"NNTgWJ4i2pozjPvPS","_classes":["internalKeyNode","NNTgWJ4i2pozjPvPSInternalKeyNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 internalKeyEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:234 target object 0
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"idea","source":"Vannevar Bush_idea_InternalKeyNode","target":"RjDhJ3nQ2kZT3BaJE","id":"Vannevar Bush_idea_InternalKeyNode_RjDhJ3nQ2kZT3BaJE_Edge","_classes":["internalKeyEdge","NNTgWJ4i2pozjPvPSInternalKeyEdge","monoEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:198 Can not create edge `Vannevar Bush_idea_InternalKeyNode_RjDhJ3nQ2kZT3BaJE_Edge` with nonexistant target `RjDhJ3nQ2kZT3BaJE`e.util.error @ 6d42b711d24f85230f967311338f9fe159da2156.js:198e.elesfn.restore @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.Element @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.fn.core.add @ 6d42b711d24f85230f967311338f9fe159da2156.js:201generateElementsFromObject @ 6d42b711d24f85230f967311338f9fe159da2156.js:234generateGraphFromObjects @ 6d42b711d24f85230f967311338f9fe159da2156.js:224populateGraph @ 6d42b711d24f85230f967311338f9fe159da2156.js:224(anonymous function) @ VM754:2InjectedScript._evaluateOn @ VM721:905InjectedScript._evaluateAndWrap @ VM721:838InjectedScript.evaluate @ VM721:694
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelKeyNodeEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"Vannevar Bush_idea_InternalKeyNode","target":"NNTgWJ4i2pozjPvPSLabelNode","id":"Vannevar Bush_idea_InternalKeyNode_NNTgWJ4i2pozjPvPSLabelNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","NNTgWJ4i2pozjPvPSInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"NNTgWJ4i2pozjPvPSLabelNode","target":"Vannevar Bush_idea_InternalKeyNode","id":"NNTgWJ4i2pozjPvPSLabelNode_Vannevar Bush_idea_InternalKeyNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","NNTgWJ4i2pozjPvPSInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 attrNodes
+6d42b711d24f85230f967311338f9fe159da2156.js:234 checking attr status
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [target = 'RjDhJ3nQ2kZT3BaJE']:visible.internalKeyEdge
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Memex
+6d42b711d24f85230f967311338f9fe159da2156.js:234 incoming edges: 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 outgoing edges: 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 ongoing result: true
+6d42b711d24f85230f967311338f9fe159da2156.js:234 iknName: Vannevar Bush_idea_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding isattribute: Vannevar Bush_idea_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 1
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Memex
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Object {id: "RjDhJ3nQ2kZT3BaJE", value: "Memex"}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Object {id: "RjDhJ3nQ2kZT3BaJE", value: "Memex"}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"idea: \n-\tMemex","id":"NNTgWJ4i2pozjPvPS_idea_AttrNode","newlyCreated":false,"parent":"NNTgWJ4i2pozjPvPS","_parent":"NNTgWJ4i2pozjPvPS","_classes":["attrNodeReferencingRjDhJ3nQ2kZT3BaJE","attrNode","NNTgWJ4i2pozjPvPSAttrNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelAttrEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"NNTgWJ4i2pozjPvPSLabelNode","target":"NNTgWJ4i2pozjPvPS_idea_AttrNode","id":"NNTgWJ4i2pozjPvPSLabelNode_NNTgWJ4i2pozjPvPS_idea_AttrNode_Edge","_classes":["internalEdge","labelAttrEdge","NNTgWJ4i2pozjPvPSInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"NNTgWJ4i2pozjPvPS_idea_AttrNode","target":"NNTgWJ4i2pozjPvPSLabelNode","id":"NNTgWJ4i2pozjPvPS_idea_AttrNode_NNTgWJ4i2pozjPvPSLabelNode_Edge","_classes":["internalEdge","labelAttrEdge","NNTgWJ4i2pozjPvPSInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck end
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Done!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"edges","data":{"name":"idea","source":"Vannevar Bush_idea_KeyNode","target":"RjDhJ3nQ2kZT3BaJE","id":"Vannevar Bush_idea_KeyNode_RjDhJ3nQ2kZT3BaJE_Edge","_classes":["keyEdge","NNTgWJ4i2pozjPvPSKeyEdge","monoEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"Vannevar Bush_idea_edge","source":"NNTgWJ4i2pozjPvPS","target":"Vannevar Bush_idea_KeyNode","id":"NNTgWJ4i2pozjPvPS_Vannevar Bush_idea_KeyNode_Edge","_classes":["keyNodeEdge","externalKeyNodeEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"idea","source":"Vannevar Bush_idea_InternalKeyNode","target":"RjDhJ3nQ2kZT3BaJE","id":"Vannevar Bush_idea_InternalKeyNode_RjDhJ3nQ2kZT3BaJE_Edge","_classes":["internalKeyEdge","NNTgWJ4i2pozjPvPSInternalKeyEdge","monoEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"Vannevar Bush_idea_InternalKeyNode","target":"NNTgWJ4i2pozjPvPSLabelNode","id":"Vannevar Bush_idea_InternalKeyNode_NNTgWJ4i2pozjPvPSLabelNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","NNTgWJ4i2pozjPvPSInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"NNTgWJ4i2pozjPvPSLabelNode","target":"Vannevar Bush_idea_InternalKeyNode","id":"NNTgWJ4i2pozjPvPSLabelNode_Vannevar Bush_idea_InternalKeyNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","NNTgWJ4i2pozjPvPSInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"NNTgWJ4i2pozjPvPSLabelNode","target":"NNTgWJ4i2pozjPvPS_idea_AttrNode","id":"NNTgWJ4i2pozjPvPSLabelNode_NNTgWJ4i2pozjPvPS_idea_AttrNode_Edge","_classes":["internalEdge","labelAttrEdge","NNTgWJ4i2pozjPvPSInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"NNTgWJ4i2pozjPvPS_idea_AttrNode","target":"NNTgWJ4i2pozjPvPSLabelNode","id":"NNTgWJ4i2pozjPvPS_idea_AttrNode_NNTgWJ4i2pozjPvPSLabelNode_Edge","_classes":["internalEdge","labelAttrEdge","NNTgWJ4i2pozjPvPSInternalEdge"],"newlyCreated":true}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"nodes","data":{"name":"Vannevar Bush","id":"NNTgWJ4i2pozjPvPS","newlyCreated":true,"_parent":"","_classes":["object","hasKeys","hasKeyNodes"]}},{"group":"nodes","data":{"name":"Vannevar Bush","id":"NNTgWJ4i2pozjPvPSLabelNode","newlyCreated":true,"parent":"NNTgWJ4i2pozjPvPS","_parent":"NNTgWJ4i2pozjPvPS","_classes":["labelNode","NNTgWJ4i2pozjPvPSLabelNode"]}},{"group":"nodes","data":{"name":"idea","id":"Vannevar Bush_idea_KeyNode","newlyCreated":true,"parent":"NNTgWJ4i2pozjPvPS","_parent":"NNTgWJ4i2pozjPvPS","_classes":["keyNode","NNTgWJ4i2pozjPvPSKeyNode"]}},{"group":"nodes","data":{"name":"idea","id":"Vannevar Bush_idea_InternalKeyNode","newlyCreated":true,"parent":"NNTgWJ4i2pozjPvPS","_parent":"NNTgWJ4i2pozjPvPS","_classes":["internalKeyNode","NNTgWJ4i2pozjPvPSInternalKeyNode"]}},{"group":"nodes","data":{"name":"idea: \n-\tMemex","id":"NNTgWJ4i2pozjPvPS_idea_AttrNode","newlyCreated":true,"parent":"NNTgWJ4i2pozjPvPS","_parent":"NNTgWJ4i2pozjPvPS","_classes":["attrNodeReferencingRjDhJ3nQ2kZT3BaJE","attrNode","NNTgWJ4i2pozjPvPSAttrNode"]}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 generateElementsFromObject: Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck start
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 goodkeys returning: [object Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"Kenny Friedman","id":"N7HJq48Rja5FEkYjM","newlyCreated":false,"parent":"","_parent":"","_classes":["object"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"Kenny Friedman","id":"N7HJq48Rja5FEkYjMLabelNode","newlyCreated":false,"parent":"N7HJq48Rja5FEkYjM","_parent":"N7HJq48Rja5FEkYjM","_classes":["labelNode","N7HJq48Rja5FEkYjMLabelNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 to add or not to add
+6d42b711d24f85230f967311338f9fe159da2156.js:234 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Done!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"nodes","data":{"name":"Kenny Friedman","id":"N7HJq48Rja5FEkYjM","newlyCreated":true,"_parent":"","_classes":["object","hasKeys","hasKeyNodes"]}},{"group":"nodes","data":{"name":"Kenny Friedman","id":"N7HJq48Rja5FEkYjMLabelNode","newlyCreated":true,"parent":"N7HJq48Rja5FEkYjM","_parent":"N7HJq48Rja5FEkYjM","_classes":["labelNode","N7HJq48Rja5FEkYjMLabelNode"]}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 generateElementsFromObject: Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck start
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 Made it past the continue!
+6d42b711d24f85230f967311338f9fe159da2156.js:232 goodkeys returning: [object Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"Kenny Friedman","id":"jdTNGTMNYxYdDsnnu","newlyCreated":false,"parent":"","_parent":"","_classes":["object"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"Kenny Friedman","id":"jdTNGTMNYxYdDsnnuLabelNode","newlyCreated":false,"parent":"jdTNGTMNYxYdDsnnu","_parent":"jdTNGTMNYxYdDsnnu","_classes":["labelNode","jdTNGTMNYxYdDsnnuLabelNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 to add or not to add
+6d42b711d24f85230f967311338f9fe159da2156.js:234 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 GoodKey: dob
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"dob","id":"Kenny Friedman_dob_KeyNode","newlyCreated":false,"parent":"jdTNGTMNYxYdDsnnu","_parent":"jdTNGTMNYxYdDsnnu","_classes":["keyNode","jdTNGTMNYxYdDsnnuKeyNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:234 removing isAttribute: jdTNGTMNYxYdDsnnu
+6d42b711d24f85230f967311338f9fe159da2156.js:234 removing isattribute: 
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 target object 0
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"dob","source":"Kenny Friedman_dob_KeyNode","target":"R5ca9oqHAhR5xEYr2","id":"Kenny Friedman_dob_KeyNode_R5ca9oqHAhR5xEYr2_Edge","_classes":["keyEdge","jdTNGTMNYxYdDsnnuKeyEdge","monoEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyedgeclasses
+6d42b711d24f85230f967311338f9fe159da2156.js:234 ["keyEdge", "jdTNGTMNYxYdDsnnuKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:198 Can not create edge `Kenny Friedman_dob_KeyNode_R5ca9oqHAhR5xEYr2_Edge` with nonexistant target `R5ca9oqHAhR5xEYr2`e.util.error @ 6d42b711d24f85230f967311338f9fe159da2156.js:198e.elesfn.restore @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.Element @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.fn.core.add @ 6d42b711d24f85230f967311338f9fe159da2156.js:201generateElementsFromObject @ 6d42b711d24f85230f967311338f9fe159da2156.js:234generateGraphFromObjects @ 6d42b711d24f85230f967311338f9fe159da2156.js:224populateGraph @ 6d42b711d24f85230f967311338f9fe159da2156.js:224(anonymous function) @ VM754:2InjectedScript._evaluateOn @ VM721:905InjectedScript._evaluateAndWrap @ VM721:838InjectedScript.evaluate @ VM721:694
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyEdgeClasses after
+6d42b711d24f85230f967311338f9fe159da2156.js:234 undefined
+6d42b711d24f85230f967311338f9fe159da2156.js:234 newKey
+6d42b711d24f85230f967311338f9fe159da2156.js:234 keyNodeEdge
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"Kenny Friedman_dob_edge","source":"jdTNGTMNYxYdDsnnu","target":"Kenny Friedman_dob_KeyNode","id":"jdTNGTMNYxYdDsnnu_Kenny Friedman_dob_KeyNode_Edge","_classes":["keyNodeEdge","externalKeyNodeEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 internalKeyNodes
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"dob","id":"Kenny Friedman_dob_InternalKeyNode","newlyCreated":false,"parent":"jdTNGTMNYxYdDsnnu","_parent":"jdTNGTMNYxYdDsnnu","_classes":["internalKeyNode","jdTNGTMNYxYdDsnnuInternalKeyNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 internalKeyEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:234 target object 0
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"dob","source":"Kenny Friedman_dob_InternalKeyNode","target":"R5ca9oqHAhR5xEYr2","id":"Kenny Friedman_dob_InternalKeyNode_R5ca9oqHAhR5xEYr2_Edge","_classes":["internalKeyEdge","jdTNGTMNYxYdDsnnuInternalKeyEdge","monoEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:198 Can not create edge `Kenny Friedman_dob_InternalKeyNode_R5ca9oqHAhR5xEYr2_Edge` with nonexistant target `R5ca9oqHAhR5xEYr2`e.util.error @ 6d42b711d24f85230f967311338f9fe159da2156.js:198e.elesfn.restore @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.Element @ 6d42b711d24f85230f967311338f9fe159da2156.js:203e.fn.core.add @ 6d42b711d24f85230f967311338f9fe159da2156.js:201generateElementsFromObject @ 6d42b711d24f85230f967311338f9fe159da2156.js:234generateGraphFromObjects @ 6d42b711d24f85230f967311338f9fe159da2156.js:224populateGraph @ 6d42b711d24f85230f967311338f9fe159da2156.js:224(anonymous function) @ VM754:2InjectedScript._evaluateOn @ VM721:905InjectedScript._evaluateAndWrap @ VM721:838InjectedScript.evaluate @ VM721:694
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelKeyNodeEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"Kenny Friedman_dob_InternalKeyNode","target":"jdTNGTMNYxYdDsnnuLabelNode","id":"Kenny Friedman_dob_InternalKeyNode_jdTNGTMNYxYdDsnnuLabelNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","jdTNGTMNYxYdDsnnuInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"jdTNGTMNYxYdDsnnuLabelNode","target":"Kenny Friedman_dob_InternalKeyNode","id":"jdTNGTMNYxYdDsnnuLabelNode_Kenny Friedman_dob_InternalKeyNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","jdTNGTMNYxYdDsnnuInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 attrNodes
+6d42b711d24f85230f967311338f9fe159da2156.js:234 checking attr status
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [target = 'R5ca9oqHAhR5xEYr2']:visible.internalKeyEdge
+6d42b711d24f85230f967311338f9fe159da2156.js:234 1995
+6d42b711d24f85230f967311338f9fe159da2156.js:234 incoming edges: 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 outgoing edges: 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 ongoing result: true
+6d42b711d24f85230f967311338f9fe159da2156.js:234 iknName: Kenny Friedman_dob_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding isattribute: Kenny Friedman_dob_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 1
+6d42b711d24f85230f967311338f9fe159da2156.js:234 1995
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Object {id: "R5ca9oqHAhR5xEYr2", value: "1995"}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Object {id: "R5ca9oqHAhR5xEYr2", value: "1995"}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"dob: \n-\t1995","id":"jdTNGTMNYxYdDsnnu_dob_AttrNode","newlyCreated":false,"parent":"jdTNGTMNYxYdDsnnu","_parent":"jdTNGTMNYxYdDsnnu","_classes":["attrNodeReferencingR5ca9oqHAhR5xEYr2","attrNode","jdTNGTMNYxYdDsnnuAttrNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelAttrEdges
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"jdTNGTMNYxYdDsnnuLabelNode","target":"jdTNGTMNYxYdDsnnu_dob_AttrNode","id":"jdTNGTMNYxYdDsnnuLabelNode_jdTNGTMNYxYdDsnnu_dob_AttrNode_Edge","_classes":["internalEdge","labelAttrEdge","jdTNGTMNYxYdDsnnuInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:224 KEYGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"edges","data":{"name":"","source":"jdTNGTMNYxYdDsnnu_dob_AttrNode","target":"jdTNGTMNYxYdDsnnuLabelNode","id":"jdTNGTMNYxYdDsnnu_dob_AttrNode_jdTNGTMNYxYdDsnnuLabelNode_Edge","_classes":["internalEdge","labelAttrEdge","jdTNGTMNYxYdDsnnuInternalEdge"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck end
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Done!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"edges","data":{"name":"dob","source":"Kenny Friedman_dob_KeyNode","target":"R5ca9oqHAhR5xEYr2","id":"Kenny Friedman_dob_KeyNode_R5ca9oqHAhR5xEYr2_Edge","_classes":["keyEdge","jdTNGTMNYxYdDsnnuKeyEdge","monoEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"Kenny Friedman_dob_edge","source":"jdTNGTMNYxYdDsnnu","target":"Kenny Friedman_dob_KeyNode","id":"jdTNGTMNYxYdDsnnu_Kenny Friedman_dob_KeyNode_Edge","_classes":["keyNodeEdge","externalKeyNodeEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"dob","source":"Kenny Friedman_dob_InternalKeyNode","target":"R5ca9oqHAhR5xEYr2","id":"Kenny Friedman_dob_InternalKeyNode_R5ca9oqHAhR5xEYr2_Edge","_classes":["internalKeyEdge","jdTNGTMNYxYdDsnnuInternalKeyEdge","monoEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"Kenny Friedman_dob_InternalKeyNode","target":"jdTNGTMNYxYdDsnnuLabelNode","id":"Kenny Friedman_dob_InternalKeyNode_jdTNGTMNYxYdDsnnuLabelNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","jdTNGTMNYxYdDsnnuInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"jdTNGTMNYxYdDsnnuLabelNode","target":"Kenny Friedman_dob_InternalKeyNode","id":"jdTNGTMNYxYdDsnnuLabelNode_Kenny Friedman_dob_InternalKeyNode_Edge","_classes":["internalEdge","labelKeyNodeEdge","jdTNGTMNYxYdDsnnuInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"jdTNGTMNYxYdDsnnuLabelNode","target":"jdTNGTMNYxYdDsnnu_dob_AttrNode","id":"jdTNGTMNYxYdDsnnuLabelNode_jdTNGTMNYxYdDsnnu_dob_AttrNode_Edge","_classes":["internalEdge","labelAttrEdge","jdTNGTMNYxYdDsnnuInternalEdge"],"newlyCreated":true}},{"group":"edges","data":{"name":"","source":"jdTNGTMNYxYdDsnnu_dob_AttrNode","target":"jdTNGTMNYxYdDsnnuLabelNode","id":"jdTNGTMNYxYdDsnnu_dob_AttrNode_jdTNGTMNYxYdDsnnuLabelNode_Edge","_classes":["internalEdge","labelAttrEdge","jdTNGTMNYxYdDsnnuInternalEdge"],"newlyCreated":true}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"nodes","data":{"name":"Kenny Friedman","id":"jdTNGTMNYxYdDsnnu","newlyCreated":true,"_parent":"","_classes":["object","hasKeys","hasKeyNodes"]}},{"group":"nodes","data":{"name":"Kenny Friedman","id":"jdTNGTMNYxYdDsnnuLabelNode","newlyCreated":true,"parent":"jdTNGTMNYxYdDsnnu","_parent":"jdTNGTMNYxYdDsnnu","_classes":["labelNode","jdTNGTMNYxYdDsnnuLabelNode"]}},{"group":"nodes","data":{"name":"dob","id":"Kenny Friedman_dob_KeyNode","newlyCreated":true,"parent":"jdTNGTMNYxYdDsnnu","_parent":"jdTNGTMNYxYdDsnnu","_classes":["keyNode","jdTNGTMNYxYdDsnnuKeyNode"]}},{"group":"nodes","data":{"name":"dob","id":"Kenny Friedman_dob_InternalKeyNode","newlyCreated":true,"parent":"jdTNGTMNYxYdDsnnu","_parent":"jdTNGTMNYxYdDsnnu","_classes":["internalKeyNode","jdTNGTMNYxYdDsnnuInternalKeyNode"]}},{"group":"nodes","data":{"name":"dob: \n-\t1995","id":"jdTNGTMNYxYdDsnnu_dob_AttrNode","newlyCreated":true,"parent":"jdTNGTMNYxYdDsnnu","_parent":"jdTNGTMNYxYdDsnnu","_classes":["attrNodeReferencingR5ca9oqHAhR5xEYr2","attrNode","jdTNGTMNYxYdDsnnuAttrNode"]}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 generateElementsFromObject: 1995
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck start
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 goodkeys returning: [object Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"1995","id":"R5ca9oqHAhR5xEYr2","newlyCreated":false,"parent":"","_parent":"","_classes":["object"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"1995","id":"R5ca9oqHAhR5xEYr2LabelNode","newlyCreated":false,"parent":"R5ca9oqHAhR5xEYr2","_parent":"R5ca9oqHAhR5xEYr2","_classes":["labelNode","R5ca9oqHAhR5xEYr2LabelNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 to add or not to add
+6d42b711d24f85230f967311338f9fe159da2156.js:234 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Done!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"nodes","data":{"name":"1995","id":"R5ca9oqHAhR5xEYr2","newlyCreated":true,"_parent":"","_classes":["object","hasKeys","hasKeyNodes"]}},{"group":"nodes","data":{"name":"1995","id":"R5ca9oqHAhR5xEYr2LabelNode","newlyCreated":true,"parent":"R5ca9oqHAhR5xEYr2","_parent":"R5ca9oqHAhR5xEYr2","_classes":["labelNode","R5ca9oqHAhR5xEYr2LabelNode"]}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:234 generateElementsFromObject: Memex
+6d42b711d24f85230f967311338f9fe159da2156.js:234 middle_c_InternalKeyNode
+6d42b711d24f85230f967311338f9fe159da2156.js:234 classcheck start
+6d42b711d24f85230f967311338f9fe159da2156.js:234 false
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 defaultFilter
+6d42b711d24f85230f967311338f9fe159da2156.js:232 clear inverses
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 made it past filterkeyname
+6d42b711d24f85230f967311338f9fe159da2156.js:232 skipkeys
+6d42b711d24f85230f967311338f9fe159da2156.js:232 goodkeys returning: [object Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"Memex","id":"RjDhJ3nQ2kZT3BaJE","newlyCreated":false,"parent":"","_parent":"","_classes":["object"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 labelNode
+6d42b711d24f85230f967311338f9fe159da2156.js:224 NODEGEN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 {"group":"nodes","data":{"name":"Memex","id":"RjDhJ3nQ2kZT3BaJELabelNode","newlyCreated":false,"parent":"RjDhJ3nQ2kZT3BaJE","_parent":"RjDhJ3nQ2kZT3BaJE","_classes":["labelNode","RjDhJ3nQ2kZT3BaJELabelNode"]}}
+6d42b711d24f85230f967311338f9fe159da2156.js:234 to add or not to add
+6d42b711d24f85230f967311338f9fe159da2156.js:234 0
+6d42b711d24f85230f967311338f9fe159da2156.js:234 adding!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 Done!
+6d42b711d24f85230f967311338f9fe159da2156.js:234 []
+6d42b711d24f85230f967311338f9fe159da2156.js:234 [{"group":"nodes","data":{"name":"Memex","id":"RjDhJ3nQ2kZT3BaJE","newlyCreated":true,"_parent":"","_classes":["object","hasKeys","hasKeyNodes"]}},{"group":"nodes","data":{"name":"Memex","id":"RjDhJ3nQ2kZT3BaJELabelNode","newlyCreated":true,"parent":"RjDhJ3nQ2kZT3BaJE","_parent":"RjDhJ3nQ2kZT3BaJE","_classes":["labelNode","RjDhJ3nQ2kZT3BaJELabelNode"]}}]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 genCyData
+6d42b711d24f85230f967311338f9fe159da2156.js:224 [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Ted Nelson
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["object", "hasKeys", "hasKeyNodes"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Ted Nelson
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["labelNode", "qQqJbBwxCBdCmm3YCLabelNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyNode", "qQqJbBwxCBdCmm3YCKeyNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalKeyNode", "qQqJbBwxCBdCmm3YCInternalKeyNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob: 
+-	1937
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["attrNodeReferencingGNPL3sWe4RfJtSSen", "attrNode", "qQqJbBwxCBdCmm3YCAttrNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced by
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyNode", "qQqJbBwxCBdCmm3YCKeyNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced by
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalKeyNode", "qQqJbBwxCBdCmm3YCInternalKeyNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced by: 
+-	Vannevar Bush
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["attrNodeReferencingNNTgWJ4i2pozjPvPS", "attrNode", "qQqJbBwxCBdCmm3YCAttrNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 150
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 185
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 150
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 185
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyNode", "qQqJbBwxCBdCmm3YCKeyNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalKeyNode", "qQqJbBwxCBdCmm3YCInternalKeyNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced: 
+-	Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["attrNodeReferencingN7HJq48Rja5FEkYjM", "attrNode", "qQqJbBwxCBdCmm3YCAttrNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 160
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 185
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 160
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 185
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 1937
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["object", "hasKeys", "hasKeyNodes"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 1937
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["labelNode", "GNPL3sWe4RfJtSSenLabelNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 hiya
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["object", "hasKeys", "hasKeyNodes"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 hiya
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["labelNode", "Ln5qX83Ha3462WyWwLabelNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 asdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyNode", "Ln5qX83Ha3462WyWwKeyNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 asdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalKeyNode", "Ln5qX83Ha3462WyWwInternalKeyNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 asdf: 
+-	sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["attrNodeReferencingcr5GX5Dmxe9wgc7ua", "attrNode", "Ln5qX83Ha3462WyWwAttrNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["object", "hasKeys", "hasKeyNodes"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["labelNode", "vzFRh4CGz6onF3EBTLabelNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["object", "hasKeys", "hasKeyNodes"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["labelNode", "EgPbxnXF98FjNFaxNLabelNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["object", "hasKeys", "hasKeyNodes"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["labelNode", "cr5GX5Dmxe9wgc7uaLabelNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Vannevar Bush
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["object", "hasKeys", "hasKeyNodes"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Vannevar Bush
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["labelNode", "NNTgWJ4i2pozjPvPSLabelNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80.62257748298549
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65.62257748298549
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80.62257748298549
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65.62257748298549
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 idea
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyNode", "NNTgWJ4i2pozjPvPSKeyNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 idea
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalKeyNode", "NNTgWJ4i2pozjPvPSInternalKeyNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 idea: 
+-	Memex
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["attrNodeReferencingRjDhJ3nQ2kZT3BaJE", "attrNode", "NNTgWJ4i2pozjPvPSAttrNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 70
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 125
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 70
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 125
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["object", "hasKeys", "hasKeyNodes"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["labelNode", "N7HJq48Rja5FEkYjMLabelNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 83.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 68.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 83.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 68.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["object", "hasKeys", "hasKeyNodes"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["labelNode", "jdTNGTMNYxYdDsnnuLabelNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 83.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 68.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 83.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 68.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyNode", "jdTNGTMNYxYdDsnnuKeyNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalKeyNode", "jdTNGTMNYxYdDsnnuInternalKeyNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob: 
+-	1995
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["attrNodeReferencingR5ca9oqHAhR5xEYr2", "attrNode", "jdTNGTMNYxYdDsnnuAttrNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 1995
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["object", "hasKeys", "hasKeyNodes"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 1995
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["labelNode", "R5ca9oqHAhR5xEYr2LabelNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Memex
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["object", "hasKeys", "hasKeyNodes"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to node
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Memex
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["labelNode", "RjDhJ3nQ2kZT3BaJELabelNode"]
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 5
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 5
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 5
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 5
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 5
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 5
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Ted Nelson_dob_edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyNodeEdge", "externalKeyNodeEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelKeyNodeEdge", "qQqJbBwxCBdCmm3YCInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelKeyNodeEdge", "qQqJbBwxCBdCmm3YCInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelAttrEdge", "qQqJbBwxCBdCmm3YCInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelAttrEdge", "qQqJbBwxCBdCmm3YCInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Ted Nelson_influenced by_edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyNodeEdge", "externalKeyNodeEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelKeyNodeEdge", "qQqJbBwxCBdCmm3YCInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelKeyNodeEdge", "qQqJbBwxCBdCmm3YCInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelAttrEdge", "qQqJbBwxCBdCmm3YCInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelAttrEdge", "qQqJbBwxCBdCmm3YCInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Ted Nelson_influenced_edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyNodeEdge", "externalKeyNodeEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelKeyNodeEdge", "qQqJbBwxCBdCmm3YCInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelKeyNodeEdge", "qQqJbBwxCBdCmm3YCInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelAttrEdge", "qQqJbBwxCBdCmm3YCInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelAttrEdge", "qQqJbBwxCBdCmm3YCInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 hiya_asdf_edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyNodeEdge", "externalKeyNodeEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelKeyNodeEdge", "Ln5qX83Ha3462WyWwInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelKeyNodeEdge", "Ln5qX83Ha3462WyWwInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelAttrEdge", "Ln5qX83Ha3462WyWwInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelAttrEdge", "Ln5qX83Ha3462WyWwInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Vannevar Bush_idea_edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyNodeEdge", "externalKeyNodeEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelKeyNodeEdge", "NNTgWJ4i2pozjPvPSInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelKeyNodeEdge", "NNTgWJ4i2pozjPvPSInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelAttrEdge", "NNTgWJ4i2pozjPvPSInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelAttrEdge", "NNTgWJ4i2pozjPvPSInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Kenny Friedman_dob_edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyNodeEdge", "externalKeyNodeEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelKeyNodeEdge", "jdTNGTMNYxYdDsnnuInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelKeyNodeEdge", "jdTNGTMNYxYdDsnnuInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelAttrEdge", "jdTNGTMNYxYdDsnnuInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalEdge", "labelAttrEdge", "jdTNGTMNYxYdDsnnuInternalEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyEdge", "qQqJbBwxCBdCmm3YCKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalKeyEdge", "qQqJbBwxCBdCmm3YCInternalKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced by
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyEdge", "qQqJbBwxCBdCmm3YCKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced by
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalKeyEdge", "qQqJbBwxCBdCmm3YCInternalKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyEdge", "qQqJbBwxCBdCmm3YCKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalKeyEdge", "qQqJbBwxCBdCmm3YCInternalKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 asdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyEdge", "Ln5qX83Ha3462WyWwKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 asdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalKeyEdge", "Ln5qX83Ha3462WyWwInternalKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 idea
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyEdge", "NNTgWJ4i2pozjPvPSKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 idea
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalKeyEdge", "NNTgWJ4i2pozjPvPSInternalKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["keyEdge", "jdTNGTMNYxYdDsnnuKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 addclasses to edge
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob
+6d42b711d24f85230f967311338f9fe159da2156.js:270 classes
+6d42b711d24f85230f967311338f9fe159da2156.js:270 ["internalKeyEdge", "jdTNGTMNYxYdDsnnuInternalKeyEdge", "monoEdge"]
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Ted Nelson
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Ted Nelson
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 150
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 185
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 160
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 185
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob: 
+-	1937
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced by
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced by
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced by: 
+-	Vannevar Bush
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 150
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 185
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 150
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 185
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 influenced: 
+-	Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 qQqJbBwxCBdCmm3YC
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 160
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 185
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 10
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 160
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 185
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 1937
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 1937
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 GNPL3sWe4RfJtSSen
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 hiya
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 hiya
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Ln5qX83Ha3462WyWw
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 asdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Ln5qX83Ha3462WyWw
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 asdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Ln5qX83Ha3462WyWw
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 asdf: 
+-	sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Ln5qX83Ha3462WyWw
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 vzFRh4CGz6onF3EBT
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 EgPbxnXF98FjNFaxN
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 sdf
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 cr5GX5Dmxe9wgc7ua
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 3
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Vannevar Bush
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Vannevar Bush
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 NNTgWJ4i2pozjPvPS
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80.62257748298549
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65.62257748298549
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80.62257748298549
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65.62257748298549
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 70
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 125
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 idea
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 NNTgWJ4i2pozjPvPS
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 idea
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 NNTgWJ4i2pozjPvPS
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80.62257748298549
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65.62257748298549
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 idea: 
+-	Memex
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 NNTgWJ4i2pozjPvPS
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 70
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 125
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80.62257748298549
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 13
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65.62257748298549
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 70
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 125
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 N7HJq48Rja5FEkYjM
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 83.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 68.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Kenny Friedman
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 jdTNGTMNYxYdDsnnu
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 83.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 68.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 83.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 68.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 jdTNGTMNYxYdDsnnu
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 jdTNGTMNYxYdDsnnu
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 83.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 68.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 dob: 
+-	1995
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 jdTNGTMNYxYdDsnnu
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 83.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 14
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 68.66600265340756
+6d42b711d24f85230f967311338f9fe159da2156.js:224 w: 60
+6d42b711d24f85230f967311338f9fe159da2156.js:224 h: 50
+6d42b711d24f85230f967311338f9fe159da2156.js:224 mw: 105
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 1995
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 1995
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 R5ca9oqHAhR5xEYr2
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 4
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Memex
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 
+6d42b711d24f85230f967311338f9fe159da2156.js:270 postprocessing
+6d42b711d24f85230f967311338f9fe159da2156.js:270 Memex
+6d42b711d24f85230f967311338f9fe159da2156.js:270 parent
+6d42b711d24f85230f967311338f9fe159da2156.js:270 RjDhJ3nQ2kZT3BaJE
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 5
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label w: 80
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 5
+6d42b711d24f85230f967311338f9fe159da2156.js:224 nlength
+6d42b711d24f85230f967311338f9fe159da2156.js:224 5
+6d42b711d24f85230f967311338f9fe159da2156.js:224 label max w: 65
+e.Core {_private: Object}
+36d42b711d24f85230f967311338f9fe159da2156.js:220 Deleting other inputs

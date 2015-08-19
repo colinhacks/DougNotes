@@ -1,0 +1,5 @@
+edge {
+	target-arrow-color : black;/*The colour of the edge's target arrow.*/
+	target-arrow-shape : triangle;/*The shape of the edge's target arrow; may be tee, triangle, triangle-tee, triangle-backcurve, square, circle, diamond, or none.*/
+	target-arrow-fill : filled;/*The fill state of the edge's target arrow; may be filled or hollow.*/
+}
