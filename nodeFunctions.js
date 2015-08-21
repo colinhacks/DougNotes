@@ -59,7 +59,8 @@ postAddModification = function(nn){
 	
 	nn.style("text-wrap","wrap");
 	if (ncontent.split(" ").length == 1){
-		nn.style("text-max-width",1000);
+		// nn.style("text-max-width",1000);
+		nn.style("text-max-width",w);
 	}else{
 		nn.style("text-max-width",w-5);
 	}
@@ -74,7 +75,7 @@ postAddModification = function(nn){
 		"font-size":25,
 		"text-background-opacity":0,
 		"text-background-color":"white",
-		"text-border-width":0,
+		"text-border-width":3,
 		"text-valign":"center",
 		"width":function(n){return n.parent()[0].width()-10},
 		"text-wrap":"wrap",
@@ -135,7 +136,8 @@ freezeNodes = function(selector){
 		
 		nn.style("text-wrap","wrap");
 		if (ncontent.split(" ").length == 1){
-			nn.style("text-max-width",1000);
+			//nn.style("text-max-width",1000);
+			nn.style("text-max-width",w);
 		}else{
 			nn.style("text-max-width",w-5);
 		}

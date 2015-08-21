@@ -37,7 +37,8 @@ handleOptions = {
   complete: function( sourceNode, targetNodes, addedEntities ){
     // fired when edgehandles is done and entities are added
     var from = sourceNode.id();
-    
+    var fromValue = sourceNode.data("name");
+
     var targetNodes = _.filter(targetNodes,function(ele){
     	return (ele.hasClass("object") || ele.hasClass("labelNode"));
     });
@@ -52,12 +53,26 @@ handleOptions = {
     });
     console.log("COMPLETE HANDLES");
     var edgeName = prompt("Please enter the key type.", "");
+    var result = getOrCreateKey(Objects,{"type":"_key","name":edgeName});
 	if (edgeName != null && edgeName != "") {
 	    var updates = {};
 	    updates[edgeName] = {$each:tos};
+	    updates["type"] = edgeName;
+	    updates["_keys"] = edgeName;
 		console.log("RESULTS");
 	    console.log({$addToSet:updates});
 	    Objects.update({_id:from},{$addToSet:updates});
+
+	    for (var i in tos){
+	    	var targetId = tos[i]["id"];
+	    	var updates = {}
+	    	updates["inverse_"+edgeName] = {id:from,value:fromValue};
+		    updates["type"] = "inverse_"+edgeName;
+		    updates["_keys"] = "inverse_"+edgeName;
+		    console.log("Taget RESULTS");
+		    console.log(updates);
+		    Objects.update({_id:targetId},{$addToSet:updates});
+	    }
 
 	}else{
 		alert("no type, not creating relation");

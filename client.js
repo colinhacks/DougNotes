@@ -170,8 +170,8 @@ if (Meteor.isClient) {
   //##########################################
   //                  GRAPH
   //##########################################
-  Template.layout.onRendered(function(){
-    Blaze.render(Template.menu,$("#main").get(0));
+  Template.menu.onRendered(function(){
+    // Blaze.render(Template.menu,$("#main").get(0));
     $("#graphMenu").hide();
 
     // $("#graphMenuButton").click(function(){
@@ -181,16 +181,17 @@ if (Meteor.isClient) {
     // });
 
     $('#graphMenuButton').click(function () {
-      if($('#graphMenuButton').is(':visible')){
+      // if($('#graphMenuButton')){
         // $('#graphMenuButton').fadeOut(function () {
-          $('#graphMenu').toggle('slide', {direction: 'left'}, 1000);
+          $('#graphMenu').toggle();
+          // $('#graphMenu').toggle('slide', {direction: 'left'}, 1000);
         // });
-      }
-      else{
-        $('#graphMenu').toggle('slide', {
-            direction: 'left'
-        }, 1000);
-      }
+      // }
+      // else{
+      //   $('#graphMenu').toggle('slide', {
+      //       direction: 'left'
+      //   }, 1000);
+      // }
     });
 
     $('#attributeViewButton').click(function (evt) {
@@ -357,5 +358,97 @@ if (Meteor.isClient) {
       return true;  // process other keys normalls
     }
   });
+
+
+  //##########################################
+  //                  ACTIVE
+  //##########################################
+  Template.active.helpers({
+    "currJSONName":function(){
+      var currJSON = get("currJSON");
+      if (currJSON && currJSON["name"]) {
+        $("#currentName").css("display","block");
+        return currJSON["name"]; 
+      } 
+      
+      $("#currentName").css("display","none"); 
+      return "";
+    
+    }
+  });
+
+  Template.active.events({
+    "click":function(evt){
+      evt.stopPropagation();
+      return false;
+    }
+  });
+
+
+
+  // ##########################################
+  //                  FilterForm
+  //##########################################
+  Template.filterForm.onRendered(function(){
+    set("matchSetIndex",1);
+    Blaze.renderWithData(Template.matchSet,{index:get("matchSetIndex")},$("#allMatchSets").get(0));
+    set("matchSetIndex",get("matchSetIndex")+1);
+  });
+
+  Template.filterForm.events({
+    "submit":function(evt){
+      evt.preventDefault();
+      
+      var nameIs = $("#nameIs").val();
+      var typeIn = $("#typeIn").val();
+      var hasKeys = $("#hasKeys").val();
+      var matchSets = $(".matchSet");for (var i in matchSets)
+
+      function cleanSplit(str){
+        return _.map(str.split(","),function(ele){return ele.trim()});
+      }
+
+      console.log("nameis");
+      var nameIs = cleanSplit(nameIs);
+      console.log(nameIs);
+      if (!empty(nameIs)) set("filterObjNameMatches",nameIs);
+      else set("filterObjNameMatches",undefined);
+
+      console.log("types");
+      var typeIn = cleanSplit(typeIn);
+      console.log(typeIn);
+      if (!empty(typeIn)) set("filterObjTypeMatches",typeIn);
+      else set("filterObjTypeMatches",undefined);
+
+      console.log("fields exist");
+      var hasKeys = cleanSplit(hasKeys);
+      console.log(hasKeys);
+      if (!empty(hasKeys)) set("filterFieldExists",hasKeys);
+      else set("filterFieldExists",undefined);
+
+      var fieldValueIs = {}
+      matchSets.each(function(matchSet){
+        var key = matchSets.find(".matchKey").val();
+        var value = matchSets.find(".matchValue").val();
+        if (!empty(key) && !empty(value)) fieldValueIs[key] = cleanSplit(value);
+      });
+      console.log("fields match");
+      console.log(fieldValueIs);
+      if (!empty(fieldValueIs)) set("filterFieldValueMatches",fieldValueIs);
+      else set("filterFieldValueMatches",undefined);
+
+
+      console.log("returning from FilterForm submit");
+      populateGraph();
+      return false;
+
+    },
+    "click #addMatchSet":function(evt){
+      var matchSetIndex = get("matchSetIndex");
+      Blaze.renderWithData(Template.matchSet,{index:matchSetIndex},$("#allMatchSets").get(0));
+      set("matchSetIndex",matchSetIndex+1);
+    }
+  });
+
 }
   

@@ -11,19 +11,94 @@
 
 <template name="graph">
 	<div id="graph" >
+		
 		<div class="" id="graphRow">
+			{{>active}}
 			<div id="objectEditor" class="large-4 columns" >
-				<pre>{{jsonText}}</pre>
+				<!-- <pre>{{jsonText}}</pre> -->
+				{{>filterForm}}
 
 			</div>
 			<div id="graphShower" class="large-8 columns" >
-				
 				
 			</div>
 		</div>
 	</div>
 </template>
 
+
+<template name="filterForm">
+	<div id="filterForm">
+		<form>
+		  <div class="row">
+		    <div class="large-12 columns">
+		      <label>Name
+		        <input type="text" id="nameIs" placeholder="Abraham Lincoln" />
+		      </label>
+		    </div>
+		  </div>
+		  <div class="row">
+		    <div class="large-12 columns">
+		      <label>Types
+		        <input type="text" id="typeIn" placeholder="president, top hat wearer" />
+		      </label>
+		    </div>
+		  </div>
+		  <div class="row">
+		    <div class="large-12 columns">
+		      <label>Has Keys
+		        <input type="text" id="hasKeys" placeholder="birthday, OS preference" />
+		      </label>
+		    </div>
+		  </div>
+
+		  <hr>
+		  <div id="allMatchSets">
+			  
+		  </div>
+		  <div style="text-align:right">
+		  	<i class="fi-plus"  id="addMatchSet" style="font-size:1em"></i>
+		  </div>
+
+		  <button id="filterButton">
+		  	Filter&nbsp;
+		  	<i class="fi-filter" style="font-size:1em"></i>
+		  </button>
+		</form>
+	</div>
+</template>
+
+
+<template name="active">
+	<div id="currentName">
+		<span>{{ currJSONName }}</span>
+	</div>
+</template>
+
+<template name="matchSet">
+	<div class="row matchSet">
+	    <div class="large-4 columns">
+	      <label>Key
+	        <input type="text" index="{{index}}" class="matchKey" placeholder="birthplace" />
+	      </label>
+	    </div>
+	    <div class="large-4 columns">
+	      <label>Matches
+	        <select  index="{{index}}" class="matchType" >
+	          <option value="any">any</option>
+	          <option value="all">all</option>
+	        </select>
+	      </label>
+	    </div>
+	    <div class="large-4 columns">
+	      <div class="row collapse">
+	        <label>Value
+	        <input type="text" index="{{index}}" class="matchValue" placeholder="Illinois, log cabin" />
+	      </label>
+	      </div>
+	    </div>
+	</div>
+</template>
 <template name="menu">
 	<div id="menu">
 		<div id="connectionViewButton">

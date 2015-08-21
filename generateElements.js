@@ -120,7 +120,7 @@ generateElementsFromObject = function(obj, ids){
 						console.log(attrSiblings);
 						attrSiblings.removeClass(attrSiblingsClass);
 						var parentId = attrSiblingsClass.split("_")[0]
-						attrSiblings.removeClass(parentId+"Attribute");
+						attrSiblings.removeClass(parentId.replace(" ","_")+"Attribute");
 					}
 				}
 				// cy.nodes(".keyNodeReferencing"+objId).style("border-color","red");
@@ -268,9 +268,9 @@ generateElementsFromObject = function(obj, ids){
 			_.map(targetObjects,function(target){
 				
 				cy.getElementById(target["id"]).addClass("isAttribute");
-				cy.getElementById(target["id"]).addClass(objId+"Attribute");
-				cy.getElementById(target["id"]).addClass("attrSiblings",objId+"_"+keyName+"_Attribute");
-				cy.getElementById(target["id"]).data("attrSiblings",objId+"_"+keyName+"_Attribute");
+				cy.getElementById(target["id"]).addClass(objId.replace(" ","_")+"Attribute");
+				cy.getElementById(target["id"]).addClass("attrSiblings",objId.replace(" ","_")+"_"+keyName.replace(" ","_")+"_Attribute");
+				cy.getElementById(target["id"]).data("attrSiblings",objId.replace(" ","_")+"_"+keyName.replace(" ","_")+"_Attribute");
 
 				var iknName = objName+"_"+keyName+"_InternalKeyNode";
 				console.log("iknName: "+iknName);
@@ -294,7 +294,9 @@ generateElementsFromObject = function(obj, ids){
 			});
 			attrClasses.push("attrNode")
 			attrClasses.push(objId+"AttrNode");
-			attrClasses.push(objId+"_"+keyName+"_AttrNode");
+			
+			var attrNodeClass = objId.replace(" ","_")+"_"+keyName.replace(" ","_")+"_AttrNode";
+			attrClasses.push(attrNodeClass);
 			var attrId = objId+"_"+keyName+"_AttrNode";
 			var attrNode = generateNode(attrId,attrText,objId,attrClasses);
 			attrNode["data"]["keyName"] = keyName;
@@ -334,8 +336,8 @@ generateElementsFromObject = function(obj, ids){
 					console.log("removing isAttribute: "+targetId)
 					// targ.style("border-color","red");
 					targ.removeClass("isAttribute"); //dispnone
-					targ.removeClass(objId+"Attribute");
-					targ.removeClass("attrSiblings",objId+"_"+keyName+"_Attribute");
+					targ.removeClass(objId.replace(" ","_")+"Attribute");
+					targ.removeClass("attrSiblings",objId.replace(" ","_")+"_"+keyName.replace(" ","_")+"_Attribute");
 					targ.style("display","element");
 					
 				}

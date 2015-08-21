@@ -30,11 +30,13 @@ getOrCreateObj = function(coll,pairs){
 		if (typeof pairs["type"] != "array"){
 			pairs["type"]=[pairs["type"]];
 		}
-		pairs["createdAt"] = Date.now();
+		// pairs["createdAt"] = Date.now();
 		console.log(JSON.stringify(pairs));
-		var keyObjId = coll.insert(pairs);
-		var keyObj = coll.findOne(keyObjId);
-		return[keyObj,true];
+		var result = createObj(coll,pairs);
+		// var keyObjId = coll.insert(pairs);
+		// var keyObj = coll.findOne(keyObjId);
+		// return[keyObj,true];
+		return result;
 	}
 }
 
@@ -43,28 +45,48 @@ createObj = function(coll,pairs){
 
 	console.log("getOrCreateObj");
 	console.log(pairs);
-	var target = coll.findOne(pairs);
+	// var target = coll.findOne(pairs);
+
+	pairs["createdAt"] = Date.now();
 
 	if (!pairs["_keys"]){
 		console.log("setting pairs[_keys]");
 		pairs["_keys"]=[];
 	}
-	if (typeof pairs["type"] != "array"){
+
+	if (typeof pairs["type"] != "object"){
 		pairs["type"]=[pairs["type"]];
 	}
-	pairs["createdAt"] = Date.now();
+	
+	var aC = get("activeCollection");
+	if(aC){
+		pairs["_collection"] = aC;
+	}
+
+	var user = Meteor.userId();
+	if(user){
+		pairs["_user"] = user;
+		pairs["_privacy"] = "private";
+		pairs["_read"] = [user];
+		pairs["_write"] = [user];
+	}
+	
+	
 	console.log(JSON.stringify(pairs));
+	
 	var keyObjId = coll.insert(pairs);
 	var keyObj = coll.findOne(keyObjId);
 	return[keyObj,true];
-	
+
 }
 
 createEmptyObject = function(){
 	defaults = {}
 	defaults["type"] = ["_value"];
 	// Add user defaults here
-	return Objects.insert(defaults);
+	var emptyObject = createObj(Objects,defaults);
+	var emptyObjectId = emptyObject[0]["_id"];
+	return emptyObjectId;
 }
 
 getOrCreateValue = function(coll,pairs){
@@ -90,7 +112,8 @@ getOrCreateKey = function(coll,pairs){
 		temp["name"] = inv
 		temp["_inverse"] = obj["_id"];
 		temp["_inverseName"] = obj["name"];
-		var invKeyObjId = coll.insert(temp);
+		var invKeyObj = createObj(coll,temp); 
+		var invKeyObjId = invKeyObj[0]["_id"]
 		coll.update(obj["_id"],{"$set":{"_inverse":invKeyObjId,"_inverseName":inv}});
 		console.log("Updated.");
 		obj = Objects.findOne(obj["_id"]);

@@ -49,7 +49,8 @@ generateNode = function(id,name,parent,classes){
 	node["data"] = data;
 	console.log("parentNode");
 	console.log(parentNode);
-	if (parentNode.length > 0) node["position"] = perturb(parentNode.position(),10);
+	if (parentNode.length > 0  && Object.keys(parentNode.position()).length > 0) node["position"] = perturb(parentNode.position(),10);
+	else node["position"] = perturb({x:0,y:0},15);
 	// var parent = cy.getElementById(parent);
 	
 	// var parentPosition = parent.position();
@@ -203,7 +204,9 @@ makeGraph = function(){
 			"background-color":"black",
 			"background-opacity":1,
 			color:"white",
-			"text-border-width":0,
+			"text-border-width":3,
+			"text-border-color":"black",
+			"text-border-opacity":1,
 			"text-valign":"center",
 			// "width":function(n){return nn.width()-10},
 			"width":function(nn){
@@ -366,9 +369,11 @@ populateGraph = function(){
 	var cyEdges = cyData[1];
 
 	// Add random positions
-	cy.add(cyNodes);
+	for (var i in cyNodes){
+		cyNodes[i]["position"] = perturb({x:0,y:0},100);
+		cy.add(cyNodes[i])
+	}
 	cy.add(cyEdges);
-
 
 	addClassesToNodes();
 	addClassesToEdges();

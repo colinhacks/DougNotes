@@ -21,6 +21,7 @@ processCommand = function(command){
       return ["\n\tNew object set.",""];
     }
   }
+  
 
   // Check if "new" keyword in command
   if (command.slice(0,3) == "new" && command.indexOf(":")==-1){

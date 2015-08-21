@@ -13,7 +13,7 @@ html {
     margin:0px;
     padding:0px;
     border:0px;
-    /*position:absolute; */
+    position:absolute; 
     bottom:0px;
 }#main,#graph, #editor, #graphrow,#objectEditor,#graphShower
 {
@@ -27,22 +27,23 @@ html {
     margin:0px;
     padding:0px;
     border:0px;
-    /*position:absolute; */
+    position:absolute; 
     bottom:0px;
 }#graph{
     width:100%;
     margin:0px;
     padding:0px;
     border:0px;
+    top:100px;
     /*height:85%;*/
-    /*position:absolute;*/
+    position:absolute;
     overflow:scroll;
     
 }#editor{
     width:100%;
     height:100px;
     border:0px;
-    /*position:absolute; */
+    position:absolute; 
     /*bottom:0px;*/
 
 }#graphRow{
@@ -110,7 +111,17 @@ html {
     color:white;
     resize:none;
     
-}input{
+}#currentName{
+    position:absolute;
+    top:0px;
+    left:300px;
+    background-color:black;
+    padding:10px;
+    color:white;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+input{
     height:25px;
 }
 i{
