@@ -70,16 +70,18 @@ generateNode = function(id,name,parent,classes){
 
 generateGraphFromObjects = function(objects){
 	console.log("getCyData");
-	modObjects = [];
+	modObjects = []; 
 	var objectIds = _.map(objects,function(o){return o["_id"]});
 	
 	// Loop over objects
 	var nodes = [];
 	var edges = [];
-	for (var k in objects){
-		var result = generateElementsFromObject(objects[k],objectIds);
-		nodes = nodes.concat(result[0]);
-		edges = edges.concat(result[1]);
+	for (var k in objectIds){
+		var objectId = objectIds[k];
+		// var result = generateElementsFromObject(objects[k],objectIds);
+		var result = refreshNodesForObject(objectId);
+		// nodes = nodes.concat(result[0]);
+		// edges = edges.concat(result[1]);
 	}
 	console.log("genCyData");
 	console.log(nodes);
@@ -365,19 +367,19 @@ populateGraph = function(){
 
 	var objects = getFilteredObjects();
 	var cyData = generateGraphFromObjects(objects);
-	var cyNodes = cyData[0];
-	var cyEdges = cyData[1];
+	// var cyNodes = cyData[0];
+	// var cyEdges = cyData[1];
 
-	// Add random positions
-	for (var i in cyNodes){
-		cyNodes[i]["position"] = perturb({x:0,y:0},100);
-		cy.add(cyNodes[i])
-	}
-	cy.add(cyEdges);
+	// // Add random positions
+	// for (var i in cyNodes){
+	// 	cyNodes[i]["position"] = perturb({x:0,y:0},100);
+	// 	cy.add(cyNodes[i])
+	// }
+	// cy.add(cyEdges);
 
-	addClassesToNodes();
-	addClassesToEdges();
-	addParents();
+	// addClassesToNodes();
+	// addClassesToEdges();
+	// addParents();
 
 
 	return cy;

@@ -68,7 +68,7 @@ handleOptions = {
 	    	var updates = {}
 	    	updates["inverse_"+edgeName] = {id:from,value:fromValue};
 		    updates["type"] = "inverse_"+edgeName;
-		    updates["_keys"] = "inverse_"+edgeName;
+		    updates["_keys"] = "inverse_"+edgeName;	
 		    console.log("Taget RESULTS");
 		    console.log(updates);
 		    Objects.update({_id:targetId},{$addToSet:updates});

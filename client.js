@@ -122,7 +122,8 @@ if (Meteor.isClient) {
     "down-regulates:@DNA",
     "new",
     "name:small interfering RNA (siRNA)",
-    "down-regulates:@protein"
+    "down-regulates:@protein",
+    
     ]
     var commands = [];
 
@@ -398,7 +399,7 @@ if (Meteor.isClient) {
   Template.filterForm.events({
     "submit":function(evt){
       evt.preventDefault();
-      
+
       var nameIs = $("#nameIs").val();
       var typeIn = $("#typeIn").val();
       var hasKeys = $("#hasKeys").val();
@@ -412,19 +413,19 @@ if (Meteor.isClient) {
       var nameIs = cleanSplit(nameIs);
       console.log(nameIs);
       if (!empty(nameIs)) set("filterObjNameMatches",nameIs);
-      else set("filterObjNameMatches",undefined);
+      else set("filterObjNameMatches",[]);
 
       console.log("types");
       var typeIn = cleanSplit(typeIn);
       console.log(typeIn);
       if (!empty(typeIn)) set("filterObjTypeMatches",typeIn);
-      else set("filterObjTypeMatches",undefined);
+      else set("filterObjTypeMatches",[]);
 
       console.log("fields exist");
       var hasKeys = cleanSplit(hasKeys);
       console.log(hasKeys);
       if (!empty(hasKeys)) set("filterFieldExists",hasKeys);
-      else set("filterFieldExists",undefined);
+      else set("filterFieldExists",[]);
 
       var fieldValueIs = {}
       matchSets.each(function(matchSet){
@@ -435,7 +436,7 @@ if (Meteor.isClient) {
       console.log("fields match");
       console.log(fieldValueIs);
       if (!empty(fieldValueIs)) set("filterFieldValueMatches",fieldValueIs);
-      else set("filterFieldValueMatches",undefined);
+      else set("filterFieldValueMatches",[]);
 
 
       console.log("returning from FilterForm submit");
